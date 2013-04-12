@@ -1,0 +1,22 @@
+Dear Nathaniel Perry,
+
+Thank you for shopping at JayBird. 
+
+Your order no. 224-SA203949 has been approved and is currently being fulfilled.
+
+Order Summary: 
+
+Item
+Qty
+Description
+Rate
+Amount
+Freedom	1	Freedom Bluetooth Headphones (Midnight Black)	$99.00	$99.00
+Subtotal	$99.00
+Shipping & Handling	$10.00
+Tax	0.00
+Total	$109.00
+
+If you would like to track the status of your order, please go to https://checkout.netsuite.com/app/center/nlvisitor.nl?c=720272&sc=6 to access your account. Log in using the email address and password you provided during checkout.
+
+JayBird

@@ -1,0 +1,3414 @@
+class alt.atheism has 90 files and 19255 words
+class comp.graphics has 90 files and 29445 words
+class comp.os.ms-windows.misc has 90 files and 17249 words
+class comp.sys.ibm.pc.hardware has 90 files and 14246 words
+class comp.sys.mac.hardware has 90 files and 14856 words
+class comp.windows.x has 90 files and 19208 words
+class misc.forsale has 90 files and 12928 words
+class rec.autos has 90 files and 15288 words
+class rec.motorcycles has 90 files and 14567 words
+class rec.sport.baseball has 90 files and 15674 words
+class rec.sport.hockey has 90 files and 15788 words
+class sci.crypt has 90 files and 19050 words
+class sci.electronics has 90 files and 20664 words
+class sci.med has 90 files and 24914 words
+class sci.space has 90 files and 20986 words
+class soc.religion.christian has 90 files and 22874 words
+class talk.politics.guns has 90 files and 20140 words
+class talk.politics.mideast has 90 files and 24473 words
+class talk.politics.misc has 90 files and 25656 words
+class talk.religion.misc has 90 files and 21235 words
+Top Word in rec.motorcycles:  edu: 0.012146
+Top Word in rec.motorcycles:  com: 0.006435
+Top Word in rec.motorcycles:  cmu: 0.004262
+Top Word in rec.motorcycles:  cs: 0.003435
+Top Word in rec.motorcycles:  news: 0.003145
+Top Word in rec.motorcycles:  motorcycles: 0.002690
+Top Word in rec.motorcycles:  srv: 0.002566
+Top Word in rec.motorcycles:  rec: 0.002338
+Top Word in rec.motorcycles:  net: 0.002235
+Top Word in rec.motorcycles:  apr: 0.002152
+
+
+Top Word in comp.sys.mac.hardware:  edu: 0.014501
+Top Word in comp.sys.mac.hardware:  cmu: 0.004566
+Top Word in comp.sys.mac.hardware:  mac: 0.004525
+Top Word in comp.sys.mac.hardware:  cs: 0.003476
+Top Word in comp.sys.mac.hardware:  news: 0.003455
+Top Word in comp.sys.mac.hardware:  com: 0.003373
+Top Word in comp.sys.mac.hardware:  comp: 0.003270
+Top Word in comp.sys.mac.hardware:  sys: 0.002921
+Top Word in comp.sys.mac.hardware:  hardware: 0.002838
+Top Word in comp.sys.mac.hardware:  srv: 0.002715
+
+
+Top Word in talk.politics.misc:  edu: 0.015685
+Top Word in talk.politics.misc:  com: 0.005806
+Top Word in talk.politics.misc:  cmu: 0.004830
+Top Word in talk.politics.misc:  talk: 0.004409
+Top Word in talk.politics.misc:  misc: 0.004258
+Top Word in talk.politics.misc:  politics: 0.004224
+Top Word in talk.politics.misc:  cs: 0.003787
+Top Word in talk.politics.misc:  srv: 0.003214
+Top Word in talk.politics.misc:  news: 0.003181
+Top Word in talk.politics.misc:  mr: 0.002844
+
+
+Top Word in soc.religion.christian:  edu: 0.015255
+Top Word in soc.religion.christian:  rutgers: 0.009905
+Top Word in soc.religion.christian:  christian: 0.006303
+Top Word in soc.religion.christian:  god: 0.004343
+Top Word in soc.religion.christian:  geneva: 0.003196
+Top Word in soc.religion.christian:  cmu: 0.003125
+Top Word in soc.religion.christian:  cs: 0.002860
+Top Word in soc.religion.christian:  religion: 0.002666
+Top Word in soc.religion.christian:  soc: 0.002472
+Top Word in soc.religion.christian:  net: 0.002437
+
+
+Top Word in comp.graphics:  edu: 0.011106
+Top Word in comp.graphics:  image: 0.005506
+Top Word in comp.graphics:  graphics: 0.004351
+Top Word in comp.graphics:  jpeg: 0.003971
+Top Word in comp.graphics:  cmu: 0.003702
+Top Word in comp.graphics:  comp: 0.003686
+Top Word in comp.graphics:  cs: 0.003481
+Top Word in comp.graphics:  news: 0.002927
+Top Word in comp.graphics:  com: 0.002721
+Top Word in comp.graphics:  data: 0.002326
+
+
+Top Word in sci.med:  edu: 0.011384
+Top Word in sci.med:  sci: 0.004584
+Top Word in sci.med:  cmu: 0.003698
+Top Word in sci.med:  com: 0.003630
+Top Word in sci.med:  cs: 0.003545
+Top Word in sci.med:  med: 0.002710
+Top Word in sci.med:  srv: 0.002420
+Top Word in sci.med:  news: 0.002403
+Top Word in sci.med:  cantaloupe: 0.002096
+Top Word in sci.med:  net: 0.001858
+
+
+Top Word in talk.religion.misc:  edu: 0.015673
+Top Word in talk.religion.misc:  com: 0.007564
+Top Word in talk.religion.misc:  cmu: 0.005237
+Top Word in talk.religion.misc:  talk: 0.005218
+Top Word in talk.religion.misc:  cs: 0.004346
+Top Word in talk.religion.misc:  misc: 0.003600
+Top Word in talk.religion.misc:  news: 0.003546
+Top Word in talk.religion.misc:  religion: 0.003400
+Top Word in talk.religion.misc:  srv: 0.003327
+Top Word in talk.religion.misc:  cantaloupe: 0.002855
+
+
+Top Word in comp.windows.x:  edu: 0.011553
+Top Word in comp.windows.x:  dos: 0.009647
+Top Word in comp.windows.x:  windows: 0.007306
+Top Word in comp.windows.x:  cmu: 0.004342
+Top Word in comp.windows.x:  com: 0.004266
+Top Word in comp.windows.x:  comp: 0.003870
+Top Word in comp.windows.x:  cs: 0.003681
+Top Word in comp.windows.x:  news: 0.002775
+Top Word in comp.windows.x:  srv: 0.002511
+Top Word in comp.windows.x:  window: 0.002416
+
+
+Top Word in comp.sys.ibm.pc.hardware:  edu: 0.012518
+Top Word in comp.sys.ibm.pc.hardware:  com: 0.004395
+Top Word in comp.sys.ibm.pc.hardware:  cmu: 0.004228
+Top Word in comp.sys.ibm.pc.hardware:  cs: 0.003603
+Top Word in comp.sys.ibm.pc.hardware:  comp: 0.003333
+Top Word in comp.sys.ibm.pc.hardware:  ibm: 0.003291
+Top Word in comp.sys.ibm.pc.hardware:  pc: 0.003249
+Top Word in comp.sys.ibm.pc.hardware:  srv: 0.002770
+Top Word in comp.sys.ibm.pc.hardware:  sys: 0.002770
+Top Word in comp.sys.ibm.pc.hardware:  hardware: 0.002729
+
+
+Top Word in talk.politics.guns:  edu: 0.017086
+Top Word in talk.politics.guns:  com: 0.005955
+Top Word in talk.politics.guns:  cmu: 0.005510
+Top Word in talk.politics.guns:  cs: 0.003970
+Top Word in talk.politics.guns:  guns: 0.003451
+Top Word in talk.politics.guns:  news: 0.003209
+Top Word in talk.politics.guns:  politics: 0.003024
+Top Word in talk.politics.guns:  talk: 0.002950
+Top Word in talk.politics.guns:  srv: 0.002931
+Top Word in talk.politics.guns:  state: 0.002709
+
+
+Top Word in alt.atheism:  edu: 0.016843
+Top Word in alt.atheism:  com: 0.005847
+Top Word in alt.atheism:  cmu: 0.004810
+Top Word in alt.atheism:  cs: 0.004093
+Top Word in alt.atheism:  news: 0.003244
+Top Word in alt.atheism:  atheism: 0.003037
+Top Word in alt.atheism:  srv: 0.002792
+Top Word in alt.atheism:  net: 0.002603
+Top Word in alt.atheism:  alt: 0.002358
+Top Word in alt.atheism:  writes: 0.002131
+
+
+Top Word in comp.os.ms-windows.misc:  edu: 0.013252
+Top Word in comp.os.ms-windows.misc:  windows: 0.006940
+Top Word in comp.os.ms-windows.misc:  os: 0.005234
+Top Word in comp.os.ms-windows.misc:  _o: 0.005214
+Top Word in comp.os.ms-windows.misc:  comp: 0.005214
+Top Word in comp.os.ms-windows.misc:  ms: 0.004607
+Top Word in comp.os.ms-windows.misc:  cmu: 0.004195
+Top Word in comp.os.ms-windows.misc:  cs: 0.003803
+Top Word in comp.os.ms-windows.misc:  com: 0.003097
+Top Word in comp.os.ms-windows.misc:  misc: 0.003058
+
+
+Top Word in sci.crypt:  edu: 0.012099
+Top Word in sci.crypt:  com: 0.006419
+Top Word in sci.crypt:  cmu: 0.004809
+Top Word in sci.crypt:  cs: 0.004147
+Top Word in sci.crypt:  srv: 0.003011
+Top Word in sci.crypt:  sci: 0.002897
+Top Word in sci.crypt:  clipper: 0.002746
+Top Word in sci.crypt:  crypt: 0.002708
+Top Word in sci.crypt:  news: 0.002632
+Top Word in sci.crypt:  cantaloupe: 0.002632
+
+
+Top Word in sci.space:  edu: 0.013370
+Top Word in sci.space:  space: 0.005644
+Top Word in sci.space:  cmu: 0.005005
+Top Word in sci.space:  sci: 0.004256
+Top Word in sci.space:  cs: 0.003690
+Top Word in sci.space:  net: 0.003105
+Top Word in sci.space:  news: 0.002959
+Top Word in sci.space:  com: 0.002539
+Top Word in sci.space:  srv: 0.002484
+Top Word in sci.space:  nasa: 0.002192
+
+
+Top Word in misc.forsale:  edu: 0.016084
+Top Word in misc.forsale:  cmu: 0.005162
+Top Word in misc.forsale:  forsale: 0.005097
+Top Word in misc.forsale:  misc: 0.004134
+Top Word in misc.forsale:  cs: 0.004091
+Top Word in misc.forsale:  srv: 0.003148
+Top Word in misc.forsale:  news: 0.002913
+Top Word in misc.forsale:  com: 0.002699
+Top Word in misc.forsale:  cantaloupe: 0.002527
+Top Word in misc.forsale:  net: 0.002420
+
+
+Top Word in rec.sport.hockey:  edu: 0.013340
+Top Word in rec.sport.hockey:  cmu: 0.004682
+Top Word in rec.sport.hockey:  ca: 0.003491
+Top Word in rec.sport.hockey:  cs: 0.003168
+Top Word in rec.sport.hockey:  com: 0.003068
+Top Word in rec.sport.hockey:  hockey: 0.003047
+Top Word in rec.sport.hockey:  news: 0.002987
+Top Word in rec.sport.hockey:  srv: 0.002321
+Top Word in rec.sport.hockey:  net: 0.002220
+Top Word in rec.sport.hockey:  sport: 0.002058
+
+
+Top Word in rec.sport.baseball:  edu: 0.015333
+Top Word in rec.sport.baseball:  cs: 0.004329
+Top Word in rec.sport.baseball:  com: 0.004288
+Top Word in rec.sport.baseball:  cmu: 0.003156
+Top Word in rec.sport.baseball:  news: 0.003115
+Top Word in rec.sport.baseball:  baseball: 0.002933
+Top Word in rec.sport.baseball:  net: 0.002569
+Top Word in rec.sport.baseball:  srv: 0.002185
+Top Word in rec.sport.baseball:  rec: 0.002164
+Top Word in rec.sport.baseball:  sport: 0.002144
+
+
+Top Word in sci.electronics:  edu: 0.012935
+Top Word in sci.electronics:  cmu: 0.004079
+Top Word in sci.electronics:  cs: 0.003564
+Top Word in sci.electronics:  com: 0.003289
+Top Word in sci.electronics:  subject: 0.002664
+Top Word in sci.electronics:  news: 0.002517
+Top Word in sci.electronics:  srv: 0.002499
+Top Word in sci.electronics:  electronics: 0.002333
+Top Word in sci.electronics:  sci: 0.002150
+Top Word in sci.electronics:  wire: 0.002113
+
+
+Top Word in rec.autos:  edu: 0.014577
+Top Word in rec.autos:  com: 0.006544
+Top Word in rec.autos:  cmu: 0.004852
+Top Word in rec.autos:  cs: 0.003731
+Top Word in rec.autos:  news: 0.003486
+Top Word in rec.autos:  autos: 0.003405
+Top Word in rec.autos:  rec: 0.003364
+Top Word in rec.autos:  srv: 0.002732
+Top Word in rec.autos:  cantaloupe: 0.002222
+Top Word in rec.autos:  net: 0.002202
+
+
+Top Word in talk.politics.mideast:  edu: 0.014871
+Top Word in talk.politics.mideast:  cmu: 0.004671
+Top Word in talk.politics.mideast:  cs: 0.004602
+Top Word in talk.politics.mideast:  soc: 0.004430
+Top Word in talk.politics.mideast:  culture: 0.004087
+Top Word in talk.politics.mideast:  news: 0.003743
+Top Word in talk.politics.mideast:  politics: 0.003434
+Top Word in talk.politics.mideast:  talk: 0.003400
+Top Word in talk.politics.mideast:  com: 0.003022
+Top Word in talk.politics.mideast:  srv: 0.002799
+
+
+Classifying alt.atheism
+(-906.86974068732968, 'alt.atheism')
+(-1382.3467148714005, 'talk.religion.misc')
+(-889.51173820073222, 'alt.atheism')
+(-789.56200767347218, 'alt.atheism')
+(-1311.0109581362481, 'talk.politics.misc')
+(-818.18262033846531, 'alt.atheism')
+(-1041.7403810226003, 'alt.atheism')
+(-2061.4134196753007, 'alt.atheism')
+(-1409.9527194676868, 'alt.atheism')
+(-1024.1032519103001, 'alt.atheism')
+Classifying comp.graphics
+(-2096.0944857767417, 'comp.graphics')
+(-1029.777690125753, 'comp.graphics')
+(-1253.3218122788855, 'comp.graphics')
+(-1181.8606251177123, 'comp.graphics')
+(-747.33351568942828, 'comp.graphics')
+(-608.21225928920717, 'comp.graphics')
+(-2203.1900381799328, 'comp.graphics')
+(-801.16013277083573, 'comp.graphics')
+(-866.12906217557281, 'comp.graphics')
+(-1663.4901852426938, 'comp.graphics')
+Classifying comp.os.ms-windows.misc
+(-1162.6701231459137, 'comp.os.ms-windows.misc')
+(-1084.650648789177, 'comp.sys.ibm.pc.hardware')
+(-2695.8161339879221, 'comp.os.ms-windows.misc')
+(-709.19350193420223, 'misc.forsale')
+(-2182.390469115071, 'comp.os.ms-windows.misc')
+(-860.99140235649156, 'comp.os.ms-windows.misc')
+(-733.54679175157389, 'comp.sys.ibm.pc.hardware')
+(-989.71365014982609, 'comp.sys.ibm.pc.hardware')
+(-1907.9191995783406, 'comp.os.ms-windows.misc')
+(-1410.9161953730172, 'comp.os.ms-windows.misc')
+Classifying comp.sys.ibm.pc.hardware
+(-1840.47218017619, 'comp.sys.ibm.pc.hardware')
+(-882.31911784181023, 'comp.sys.ibm.pc.hardware')
+(-651.20896279260717, 'comp.sys.mac.hardware')
+(-892.46975246028853, 'comp.sys.ibm.pc.hardware')
+(-827.24278627786941, 'comp.sys.mac.hardware')
+(-1113.7374314746892, 'comp.sys.ibm.pc.hardware')
+(-1229.498104087533, 'comp.sys.ibm.pc.hardware')
+(-1305.7906215300623, 'comp.sys.ibm.pc.hardware')
+(-1467.2123011799868, 'comp.sys.ibm.pc.hardware')
+(-1303.7784829873367, 'comp.sys.ibm.pc.hardware')
+Classifying comp.sys.mac.hardware
+(-2019.3067410147132, 'comp.sys.mac.hardware')
+(-1027.6024131622228, 'talk.politics.misc')
+(-1533.4731853831811, 'comp.sys.mac.hardware')
+(-2672.8522117197931, 'comp.sys.mac.hardware')
+(-1580.0166237732774, 'comp.os.ms-windows.misc')
+(-1364.1723934494223, 'comp.sys.mac.hardware')
+(-930.72100573130899, 'comp.sys.mac.hardware')
+(-795.18246014326269, 'comp.sys.mac.hardware')
+(-1451.0880748757113, 'comp.sys.mac.hardware')
+(-1092.5352642407299, 'comp.sys.mac.hardware')
+Classifying comp.windows.x
+(-1751.470432324458, 'comp.windows.x')
+(-27038.568955622744, 'comp.graphics')
+(-987.78561071449553, 'comp.windows.x')
+(-1355.8677653893824, 'sci.electronics')
+(-927.6339760123567, 'comp.graphics')
+(-2610.2411941531209, 'comp.graphics')
+(-1606.0403080629103, 'comp.graphics')
+(-1133.3164753662211, 'talk.politics.misc')
+(-948.1179406553149, 'comp.windows.x')
+(-630.39701540486237, 'comp.os.ms-windows.misc')
+Classifying misc.forsale
+(-1036.9433252256299, 'misc.forsale')
+(-732.04787880753258, 'misc.forsale')
+(-849.26137292781914, 'misc.forsale')
+(-1260.7236831172604, 'sci.crypt')
+(-837.50531685185808, 'misc.forsale')
+(-1299.0370270858004, 'misc.forsale')
+(-960.19433681243879, 'rec.sport.baseball')
+(-832.54270259320776, 'misc.forsale')
+(-1296.17049097475, 'rec.sport.baseball')
+(-1443.4946475621211, 'misc.forsale')
+Classifying rec.autos
+(-2466.2803345863158, 'rec.autos')
+(-955.20490450898376, 'rec.autos')
+(-1081.897723398637, 'rec.autos')
+(-911.99800494578631, 'rec.autos')
+(-1237.4982449083379, 'rec.autos')
+(-1954.1804879793576, 'rec.autos')
+(-2219.4456746261844, 'rec.autos')
+(-592.9500962949927, 'rec.autos')
+(-1484.2367642493448, 'rec.autos')
+(-1546.7844412573404, 'rec.autos')
+Classifying rec.motorcycles
+(-1768.561609820795, 'rec.autos')
+(-1609.5845969832978, 'rec.motorcycles')
+(-1105.7717474578899, 'rec.motorcycles')
+(-485.95958288365381, 'rec.motorcycles')
+(-1858.1507519364022, 'rec.motorcycles')
+(-1043.626724375941, 'rec.motorcycles')
+(-1585.9278256168373, 'rec.motorcycles')
+(-1546.5047009320863, 'rec.motorcycles')
+(-1593.1512080058733, 'rec.motorcycles')
+(-1274.554666990512, 'rec.motorcycles')
+Classifying rec.sport.baseball
+(-1144.6617745131862, 'rec.sport.baseball')
+(-1013.9681093539022, 'rec.sport.baseball')
+(-881.58374597338377, 'rec.sport.baseball')
+(-1299.5566090636123, 'rec.sport.baseball')
+(-2035.2782379246821, 'rec.sport.baseball')
+(-1690.7479736672126, 'rec.sport.baseball')
+(-1232.9728107989774, 'rec.sport.baseball')
+(-1243.7422192141028, 'rec.sport.baseball')
+(-831.39353377727593, 'rec.sport.hockey')
+(-2144.7354263025636, 'rec.sport.baseball')
+Classifying rec.sport.hockey
+(-1953.7784818069017, 'rec.sport.hockey')
+(-4640.7296584733122, 'rec.sport.hockey')
+(-1684.6781540550269, 'rec.sport.hockey')
+(-3977.8177331444726, 'rec.sport.hockey')
+(-2425.0030325675089, 'rec.sport.hockey')
+(-676.04775731553104, 'rec.sport.hockey')
+(-2105.585310489173, 'rec.sport.hockey')
+(-1234.8267543282152, 'rec.sport.hockey')
+(-1611.8749662210578, 'rec.sport.hockey')
+(-2024.6499748710339, 'rec.sport.hockey')
+Classifying sci.crypt
+(-966.75860912932706, 'sci.crypt')
+(-625.05546260420124, 'sci.crypt')
+(-1791.1914556853533, 'comp.graphics')
+(-1065.5767614131958, 'sci.crypt')
+(-7525.3361133069247, 'sci.crypt')
+(-1206.879499263925, 'sci.crypt')
+(-1072.3307243965628, 'sci.crypt')
+(-1622.560161805003, 'sci.crypt')
+(-7133.831310563869, 'sci.crypt')
+(-818.77417749318613, 'sci.crypt')
+Classifying sci.electronics
+(-1620.4950558714643, 'sci.electronics')
+(-2876.0291751894133, 'sci.electronics')
+(-3083.6853286818191, 'sci.electronics')
+(-2188.7700237224335, 'sci.electronics')
+(-2211.6824621794294, 'sci.electronics')
+(-2179.3552782849956, 'sci.electronics')
+(-1733.4078207853681, 'sci.electronics')
+(-1156.8212382451704, 'rec.sport.hockey')
+(-946.90557178379686, 'sci.electronics')
+(-548.27534496190026, 'sci.space')
+Classifying sci.med
+(-1133.3911758748138, 'sci.med')
+(-1036.5115282966888, 'sci.med')
+(-1762.7094909421648, 'sci.med')
+(-1473.6196700600835, 'sci.med')
+(-1124.0164477553949, 'sci.med')
+(-992.70401305395899, 'sci.med')
+(-1375.6002557685638, 'sci.med')
+(-769.51367252866157, 'rec.sport.baseball')
+(-2523.0017712116814, 'sci.med')
+(-1030.9345297410987, 'sci.med')
+Classifying sci.space
+(-1579.78872018633, 'sci.space')
+(-10260.925738302059, 'sci.space')
+(-6890.7993354251475, 'sci.space')
+(-1366.5126187488906, 'sci.electronics')
+(-1028.6616264555698, 'sci.space')
+(-1060.3995725078025, 'talk.politics.misc')
+(-1028.2462483835618, 'sci.space')
+(-1447.914981219953, 'sci.space')
+(-3036.8081102704582, 'sci.space')
+(-639.35507410085529, 'rec.autos')
+Classifying soc.religion.christian
+(-965.95464748645827, 'soc.religion.christian')
+(-1134.2180204428075, 'soc.religion.christian')
+(-511.70596189322686, 'soc.religion.christian')
+(-2389.1802994948871, 'soc.religion.christian')
+(-2249.0134191227494, 'soc.religion.christian')
+(-4270.3810806067604, 'soc.religion.christian')
+(-2691.9654152897879, 'soc.religion.christian')
+(-1942.8220371526252, 'soc.religion.christian')
+(-1176.4919564712309, 'soc.religion.christian')
+(-1115.3426851239633, 'soc.religion.christian')
+Classifying talk.politics.guns
+(-5929.5581312176937, 'talk.politics.guns')
+(-1284.5172247603498, 'talk.politics.guns')
+(-1261.1596529077149, 'talk.politics.guns')
+(-3498.4149896288241, 'talk.politics.guns')
+(-1932.1095244950016, 'talk.politics.guns')
+(-3486.574945709157, 'talk.politics.guns')
+(-733.58138387328358, 'talk.politics.guns')
+(-3622.1897612450257, 'talk.politics.guns')
+(-958.18061334046456, 'talk.politics.guns')
+(-1362.2380993013076, 'talk.politics.guns')
+Classifying talk.politics.mideast
+(-752.56420945985883, 'talk.politics.mideast')
+(-1476.771692736407, 'talk.politics.mideast')
+(-2001.0565243171768, 'talk.politics.mideast')
+(-2661.4667422571747, 'talk.politics.mideast')
+(-1707.3870726783709, 'talk.politics.mideast')
+(-731.29155921781046, 'talk.politics.mideast')
+(-1438.9579214745584, 'talk.politics.mideast')
+(-1363.4058968342736, 'talk.politics.mideast')
+(-1105.7090946737526, 'talk.politics.mideast')
+(-762.08722660379385, 'talk.politics.mideast')
+Classifying talk.politics.misc
+(-1118.5396570302867, 'talk.religion.misc')
+(-1860.3944830014241, 'talk.politics.misc')
+(-1473.7857231768589, 'talk.politics.misc')
+(-1813.3958131113641, 'talk.religion.misc')
+(-1383.888556721279, 'talk.politics.misc')
+(-953.00863901192793, 'talk.politics.guns')
+(-1922.6200626058255, 'talk.politics.misc')
+(-1147.3299082668684, 'talk.politics.misc')
+(-1606.0060171435136, 'talk.religion.misc')
+(-1227.7647324738257, 'talk.politics.misc')
+Classifying talk.religion.misc
+(-1986.4846816077609, 'talk.politics.misc')
+(-1432.9429032917508, 'talk.religion.misc')
+(-2019.0776888913388, 'talk.religion.misc')
+(-1267.5835221119571, 'talk.religion.misc')
+(-963.7918300314667, 'talk.religion.misc')
+(-1930.3864561839025, 'alt.atheism')
+(-1494.8918806788463, 'alt.atheism')
+(-855.7415626467814, 'talk.religion.misc')
+(-1721.5895266124546, 'talk.religion.misc')
+(-1146.8085141883807, 'talk.politics.misc')
+class alt.atheism has 72 files and 15939 words
+class comp.graphics has 72 files and 26254 words
+class comp.os.ms-windows.misc has 72 files and 14578 words
+class comp.sys.ibm.pc.hardware has 72 files and 11769 words
+class comp.sys.mac.hardware has 72 files and 12318 words
+class comp.windows.x has 72 files and 16613 words
+class misc.forsale has 72 files and 10320 words
+class rec.autos has 72 files and 12216 words
+class rec.motorcycles has 72 files and 11633 words
+class rec.sport.baseball has 72 files and 12684 words
+class rec.sport.hockey has 72 files and 12598 words
+class sci.crypt has 72 files and 14918 words
+class sci.electronics has 72 files and 17182 words
+class sci.med has 72 files and 21538 words
+class sci.space has 72 files and 17623 words
+class soc.religion.christian has 72 files and 18257 words
+class talk.politics.guns has 72 files and 16131 words
+class talk.politics.mideast has 72 files and 19910 words
+class talk.politics.misc has 72 files and 18997 words
+class talk.religion.misc has 72 files and 17282 words
+Top Word in rec.motorcycles:  edu: 0.010567
+Top Word in rec.motorcycles:  com: 0.006496
+Top Word in rec.motorcycles:  cmu: 0.003719
+Top Word in rec.motorcycles:  cs: 0.003036
+Top Word in rec.motorcycles:  news: 0.002777
+Top Word in rec.motorcycles:  motorcycles: 0.002565
+Top Word in rec.motorcycles:  srv: 0.002283
+Top Word in rec.motorcycles:  rec: 0.002165
+Top Word in rec.motorcycles:  net: 0.001977
+Top Word in rec.motorcycles:  apr: 0.001906
+
+
+Top Word in comp.sys.mac.hardware:  edu: 0.013202
+Top Word in comp.sys.mac.hardware:  cmu: 0.004030
+Top Word in comp.sys.mac.hardware:  mac: 0.003938
+Top Word in comp.sys.mac.hardware:  news: 0.003220
+Top Word in comp.sys.mac.hardware:  cs: 0.002918
+Top Word in comp.sys.mac.hardware:  comp: 0.002803
+Top Word in comp.sys.mac.hardware:  hardware: 0.002664
+Top Word in comp.sys.mac.hardware:  com: 0.002640
+Top Word in comp.sys.mac.hardware:  sys: 0.002594
+Top Word in comp.sys.mac.hardware:  srv: 0.002316
+
+
+Top Word in talk.politics.misc:  edu: 0.015445
+Top Word in talk.politics.misc:  com: 0.005015
+Top Word in talk.politics.misc:  cmu: 0.004814
+Top Word in talk.politics.misc:  talk: 0.004152
+Top Word in talk.politics.misc:  misc: 0.003992
+Top Word in talk.politics.misc:  politics: 0.003952
+Top Word in talk.politics.misc:  cs: 0.003550
+Top Word in talk.politics.misc:  news: 0.003169
+Top Word in talk.politics.misc:  srv: 0.003089
+Top Word in talk.politics.misc:  cantaloupe: 0.002608
+
+
+Top Word in soc.religion.christian:  edu: 0.014151
+Top Word in soc.religion.christian:  rutgers: 0.009122
+Top Word in soc.religion.christian:  christian: 0.005783
+Top Word in soc.religion.christian:  god: 0.003767
+Top Word in soc.religion.christian:  geneva: 0.002912
+Top Word in soc.religion.christian:  cmu: 0.002851
+Top Word in soc.religion.christian:  cs: 0.002667
+Top Word in soc.religion.christian:  religion: 0.002504
+Top Word in soc.religion.christian:  soc: 0.002362
+Top Word in soc.religion.christian:  net: 0.002342
+
+
+Top Word in comp.graphics:  edu: 0.010016
+Top Word in comp.graphics:  image: 0.005971
+Top Word in comp.graphics:  jpeg: 0.004290
+Top Word in comp.graphics:  graphics: 0.004045
+Top Word in comp.graphics:  cmu: 0.003344
+Top Word in comp.graphics:  comp: 0.003292
+Top Word in comp.graphics:  cs: 0.003082
+Top Word in comp.graphics:  news: 0.002521
+Top Word in comp.graphics:  data: 0.002469
+Top Word in comp.graphics:  images: 0.002381
+
+
+Top Word in sci.med:  edu: 0.009810
+Top Word in sci.med:  sci: 0.003951
+Top Word in sci.med:  cmu: 0.003397
+Top Word in sci.med:  com: 0.003302
+Top Word in sci.med:  cs: 0.003111
+Top Word in sci.med:  med: 0.002386
+Top Word in sci.med:  srv: 0.002214
+Top Word in sci.med:  news: 0.002119
+Top Word in sci.med:  cantaloupe: 0.001870
+Top Word in sci.med:  net: 0.001641
+
+
+Top Word in talk.religion.misc:  edu: 0.014375
+Top Word in talk.religion.misc:  com: 0.007063
+Top Word in talk.religion.misc:  cmu: 0.004778
+Top Word in talk.religion.misc:  talk: 0.004716
+Top Word in talk.religion.misc:  cs: 0.004030
+Top Word in talk.religion.misc:  news: 0.003282
+Top Word in talk.religion.misc:  misc: 0.003282
+Top Word in talk.religion.misc:  religion: 0.003178
+Top Word in talk.religion.misc:  srv: 0.003054
+Top Word in talk.religion.misc:  cantaloupe: 0.002617
+
+
+Top Word in comp.windows.x:  dos: 0.010765
+Top Word in comp.windows.x:  edu: 0.010702
+Top Word in comp.windows.x:  windows: 0.007584
+Top Word in comp.windows.x:  com: 0.004150
+Top Word in comp.windows.x:  cmu: 0.003960
+Top Word in comp.windows.x:  comp: 0.003581
+Top Word in comp.windows.x:  cs: 0.003476
+Top Word in comp.windows.x:  news: 0.002549
+Top Word in comp.windows.x:  window: 0.002444
+Top Word in comp.windows.x:  srv: 0.002275
+
+
+Top Word in comp.sys.ibm.pc.hardware:  edu: 0.011636
+Top Word in comp.sys.ibm.pc.hardware:  com: 0.003777
+Top Word in comp.sys.ibm.pc.hardware:  cmu: 0.003730
+Top Word in comp.sys.ibm.pc.hardware:  cs: 0.003284
+Top Word in comp.sys.ibm.pc.hardware:  comp: 0.003167
+Top Word in comp.sys.ibm.pc.hardware:  ibm: 0.003073
+Top Word in comp.sys.ibm.pc.hardware:  pc: 0.003050
+Top Word in comp.sys.ibm.pc.hardware:  hardware: 0.002581
+Top Word in comp.sys.ibm.pc.hardware:  net: 0.002557
+Top Word in comp.sys.ibm.pc.hardware:  sys: 0.002557
+
+
+Top Word in talk.politics.guns:  edu: 0.015579
+Top Word in talk.politics.guns:  com: 0.005214
+Top Word in talk.politics.guns:  cmu: 0.005023
+Top Word in talk.politics.guns:  cs: 0.003639
+Top Word in talk.politics.guns:  guns: 0.003150
+Top Word in talk.politics.guns:  news: 0.003001
+Top Word in talk.politics.guns:  srv: 0.002660
+Top Word in talk.politics.guns:  politics: 0.002618
+Top Word in talk.politics.guns:  talk: 0.002511
+Top Word in talk.politics.guns:  state: 0.002511
+
+
+Top Word in alt.atheism:  edu: 0.015365
+Top Word in alt.atheism:  com: 0.004958
+Top Word in alt.atheism:  cmu: 0.004253
+Top Word in alt.atheism:  cs: 0.003718
+Top Word in alt.atheism:  news: 0.002970
+Top Word in alt.atheism:  atheism: 0.002928
+Top Word in alt.atheism:  srv: 0.002479
+Top Word in alt.atheism:  net: 0.002436
+Top Word in alt.atheism:  alt: 0.002180
+Top Word in alt.atheism:  cantaloupe: 0.001902
+
+
+Top Word in comp.os.ms-windows.misc:  edu: 0.011841
+Top Word in comp.os.ms-windows.misc:  windows: 0.006493
+Top Word in comp.os.ms-windows.misc:  _o: 0.005855
+Top Word in comp.os.ms-windows.misc:  os: 0.004952
+Top Word in comp.os.ms-windows.misc:  comp: 0.004820
+Top Word in comp.os.ms-windows.misc:  ms: 0.004204
+Top Word in comp.os.ms-windows.misc:  cmu: 0.003742
+Top Word in comp.os.ms-windows.misc:  cs: 0.003500
+Top Word in comp.os.ms-windows.misc:  com: 0.003191
+Top Word in comp.os.ms-windows.misc:  misc: 0.002729
+
+
+Top Word in sci.crypt:  edu: 0.010705
+Top Word in sci.crypt:  com: 0.005920
+Top Word in sci.crypt:  cmu: 0.004282
+Top Word in sci.crypt:  cs: 0.003386
+Top Word in sci.crypt:  srv: 0.002665
+Top Word in sci.crypt:  sci: 0.002622
+Top Word in sci.crypt:  clipper: 0.002622
+Top Word in sci.crypt:  news: 0.002512
+Top Word in sci.crypt:  crypt: 0.002425
+Top Word in sci.crypt:  cantaloupe: 0.002338
+
+
+Top Word in sci.space:  edu: 0.011696
+Top Word in sci.space:  space: 0.005260
+Top Word in sci.space:  cmu: 0.004414
+Top Word in sci.space:  sci: 0.003713
+Top Word in sci.space:  cs: 0.003218
+Top Word in sci.space:  net: 0.002785
+Top Word in sci.space:  news: 0.002640
+Top Word in sci.space:  com: 0.002290
+Top Word in sci.space:  srv: 0.002228
+Top Word in sci.space:  nasa: 0.001960
+
+
+Top Word in misc.forsale:  edu: 0.015106
+Top Word in misc.forsale:  cmu: 0.004760
+Top Word in misc.forsale:  forsale: 0.004566
+Top Word in misc.forsale:  cs: 0.003934
+Top Word in misc.forsale:  misc: 0.003813
+Top Word in misc.forsale:  srv: 0.002914
+Top Word in misc.forsale:  news: 0.002744
+Top Word in misc.forsale:  com: 0.002501
+Top Word in misc.forsale:  cantaloupe: 0.002331
+Top Word in misc.forsale:  net: 0.002307
+
+
+Top Word in rec.sport.hockey:  edu: 0.012197
+Top Word in rec.sport.hockey:  cmu: 0.004441
+Top Word in rec.sport.hockey:  ca: 0.003337
+Top Word in rec.sport.hockey:  news: 0.002992
+Top Word in rec.sport.hockey:  hockey: 0.002992
+Top Word in rec.sport.hockey:  com: 0.002900
+Top Word in rec.sport.hockey:  cs: 0.002877
+Top Word in rec.sport.hockey:  srv: 0.002094
+Top Word in rec.sport.hockey:  net: 0.002025
+Top Word in rec.sport.hockey:  sport: 0.001933
+
+
+Top Word in rec.sport.baseball:  edu: 0.013895
+Top Word in rec.sport.baseball:  cs: 0.004180
+Top Word in rec.sport.baseball:  com: 0.003813
+Top Word in rec.sport.baseball:  cmu: 0.003009
+Top Word in rec.sport.baseball:  baseball: 0.002710
+Top Word in rec.sport.baseball:  news: 0.002687
+Top Word in rec.sport.baseball:  net: 0.002205
+Top Word in rec.sport.baseball:  srv: 0.002021
+Top Word in rec.sport.baseball:  rec: 0.002021
+Top Word in rec.sport.baseball:  sport: 0.001998
+
+
+Top Word in sci.electronics:  edu: 0.011012
+Top Word in sci.electronics:  cmu: 0.003643
+Top Word in sci.electronics:  cs: 0.003123
+Top Word in sci.electronics:  com: 0.002998
+Top Word in sci.electronics:  subject: 0.002623
+Top Word in sci.electronics:  wire: 0.002394
+Top Word in sci.electronics:  news: 0.002269
+Top Word in sci.electronics:  srv: 0.002186
+Top Word in sci.electronics:  wiring: 0.002165
+Top Word in sci.electronics:  use: 0.002123
+
+
+Top Word in rec.autos:  edu: 0.013094
+Top Word in rec.autos:  com: 0.005967
+Top Word in rec.autos:  cmu: 0.004504
+Top Word in rec.autos:  cs: 0.003529
+Top Word in rec.autos:  autos: 0.003204
+Top Word in rec.autos:  rec: 0.003158
+Top Word in rec.autos:  news: 0.003134
+Top Word in rec.autos:  srv: 0.002484
+Top Word in rec.autos:  net: 0.002020
+Top Word in rec.autos:  cantaloupe: 0.002020
+
+
+Top Word in talk.politics.mideast:  edu: 0.013631
+Top Word in talk.politics.mideast:  cmu: 0.004314
+Top Word in talk.politics.mideast:  cs: 0.003881
+Top Word in talk.politics.mideast:  soc: 0.003526
+Top Word in talk.politics.mideast:  news: 0.003427
+Top Word in talk.politics.mideast:  culture: 0.003171
+Top Word in talk.politics.mideast:  talk: 0.003073
+Top Word in talk.politics.mideast:  politics: 0.003034
+Top Word in talk.politics.mideast:  turkish: 0.002797
+Top Word in talk.politics.mideast:  com: 0.002679
+
+
+Classifying alt.atheism
+(-916.4482991704557, 'alt.atheism')
+(-1383.3544543015917, 'talk.religion.misc')
+(-900.44994922192461, 'alt.atheism')
+(-803.48007838621197, 'alt.atheism')
+(-1306.333223437477, 'talk.politics.misc')
+(-833.46972716979951, 'alt.atheism')
+(-1060.0913732476893, 'alt.atheism')
+(-2077.0759862645996, 'alt.atheism')
+(-1413.446787301061, 'alt.atheism')
+(-1047.6142264647619, 'alt.atheism')
+Classifying comp.graphics
+(-2099.1974326728932, 'comp.graphics')
+(-1031.9275602454288, 'comp.graphics')
+(-1255.5757910893649, 'comp.graphics')
+(-1182.2952569784513, 'comp.graphics')
+(-749.24181149702054, 'comp.graphics')
+(-611.47968995213409, 'comp.graphics')
+(-2203.4057861986175, 'comp.graphics')
+(-813.27111542551006, 'comp.graphics')
+(-871.38053548158337, 'comp.graphics')
+(-1665.619671100618, 'comp.graphics')
+Classifying comp.os.ms-windows.misc
+(-1171.3785585195703, 'comp.os.ms-windows.misc')
+(-1086.200671898031, 'comp.sys.ibm.pc.hardware')
+(-2707.7752689042686, 'comp.os.ms-windows.misc')
+(-712.68346517792907, 'misc.forsale')
+(-2180.6492110071467, 'comp.os.ms-windows.misc')
+(-867.67959259056647, 'comp.os.ms-windows.misc')
+(-741.41629779812433, 'comp.windows.x')
+(-992.06717687200512, 'comp.sys.ibm.pc.hardware')
+(-1911.9856198897116, 'comp.os.ms-windows.misc')
+(-1417.4283876641771, 'comp.os.ms-windows.misc')
+Classifying comp.sys.ibm.pc.hardware
+(-1847.4254543416084, 'comp.sys.ibm.pc.hardware')
+(-883.87390643005006, 'comp.sys.ibm.pc.hardware')
+(-654.23386950626468, 'comp.sys.mac.hardware')
+(-893.40668178251588, 'comp.sys.ibm.pc.hardware')
+(-834.34742701325774, 'comp.sys.mac.hardware')
+(-1122.1395367547445, 'comp.sys.mac.hardware')
+(-1233.7562925878096, 'comp.sys.ibm.pc.hardware')
+(-1309.9009110207423, 'comp.sys.ibm.pc.hardware')
+(-1471.4061321178888, 'comp.sys.ibm.pc.hardware')
+(-1311.5431861620916, 'comp.sys.ibm.pc.hardware')
+Classifying comp.sys.mac.hardware
+(-2019.2406971869316, 'comp.sys.mac.hardware')
+(-1029.2554124571213, 'talk.politics.misc')
+(-1537.6134834175559, 'comp.sys.mac.hardware')
+(-2699.6791021605604, 'comp.sys.mac.hardware')
+(-1583.601027524609, 'comp.os.ms-windows.misc')
+(-1367.971991134267, 'comp.sys.mac.hardware')
+(-939.31165558576481, 'comp.sys.mac.hardware')
+(-800.56838759876007, 'comp.sys.mac.hardware')
+(-1458.4630833116005, 'comp.sys.mac.hardware')
+(-1095.8552565653815, 'comp.sys.mac.hardware')
+Classifying comp.windows.x
+(-1756.7683926019827, 'comp.windows.x')
+(-26982.051988093786, 'comp.graphics')
+(-990.1518298490596, 'comp.windows.x')
+(-1367.3420158130498, 'comp.graphics')
+(-930.28009589570752, 'comp.graphics')
+(-2603.3247743335851, 'comp.graphics')
+(-1645.2959179784207, 'comp.graphics')
+(-1134.3516660763128, 'talk.politics.misc')
+(-950.59553937352439, 'comp.windows.x')
+(-634.26299342298205, 'comp.os.ms-windows.misc')
+Classifying misc.forsale
+(-1046.8302606112597, 'comp.sys.ibm.pc.hardware')
+(-734.81838305544125, 'rec.sport.baseball')
+(-856.13815022124925, 'misc.forsale')
+(-1262.0714988935363, 'talk.politics.misc')
+(-844.71412199359429, 'misc.forsale')
+(-1307.2078586689202, 'misc.forsale')
+(-960.24890801149627, 'rec.sport.baseball')
+(-831.28031106471394, 'misc.forsale')
+(-1294.3708089017882, 'rec.sport.baseball')
+(-1445.9145706564973, 'misc.forsale')
+Classifying rec.autos
+(-2481.1571338192098, 'rec.autos')
+(-956.78545213278801, 'rec.autos')
+(-1087.0718277751275, 'rec.autos')
+(-912.68031027577172, 'rec.autos')
+(-1243.9390437657819, 'rec.autos')
+(-1948.360451846379, 'rec.autos')
+(-2223.0523862916807, 'rec.autos')
+(-602.73642785500101, 'rec.autos')
+(-1488.2260585311635, 'rec.autos')
+(-1556.9831689525681, 'rec.autos')
+Classifying rec.motorcycles
+(-1761.2088027032125, 'rec.motorcycles')
+(-1633.8735205059011, 'rec.motorcycles')
+(-1106.6727860688275, 'rec.motorcycles')
+(-489.85685541484293, 'misc.forsale')
+(-1863.0895805233054, 'rec.motorcycles')
+(-1043.5031555561241, 'rec.motorcycles')
+(-1596.3960382342675, 'rec.motorcycles')
+(-1549.0938301744611, 'rec.motorcycles')
+(-1594.8969581438778, 'rec.motorcycles')
+(-1285.6053632594039, 'rec.motorcycles')
+Classifying rec.sport.baseball
+(-1146.8865440233358, 'rec.sport.baseball')
+(-1015.7056591558655, 'rec.sport.baseball')
+(-889.88545458137037, 'rec.sport.baseball')
+(-1304.2454266147461, 'rec.sport.baseball')
+(-2036.3306264463297, 'rec.sport.baseball')
+(-1692.5054966822825, 'rec.sport.baseball')
+(-1273.3147983761164, 'rec.sport.baseball')
+(-1275.0380504910634, 'rec.sport.baseball')
+(-832.02414067750783, 'rec.sport.hockey')
+(-2152.2267934624683, 'rec.sport.baseball')
+Classifying rec.sport.hockey
+(-1954.907344669728, 'rec.sport.hockey')
+(-4647.4058243168856, 'rec.sport.hockey')
+(-1687.9662486084533, 'rec.sport.hockey')
+(-4038.2186954019321, 'rec.sport.hockey')
+(-2434.7311368256842, 'rec.sport.hockey')
+(-674.21038643408826, 'rec.sport.hockey')
+(-2112.2408513400164, 'rec.sport.hockey')
+(-1240.0964704799148, 'rec.sport.hockey')
+(-1634.7288081459521, 'rec.sport.hockey')
+(-2033.1614962639258, 'rec.sport.hockey')
+Classifying sci.crypt
+(-970.23530061867871, 'sci.crypt')
+(-628.44567118952341, 'sci.crypt')
+(-1794.4464906972737, 'comp.graphics')
+(-1070.4332885699118, 'sci.crypt')
+(-7536.3046576644811, 'sci.crypt')
+(-1214.2826713968234, 'sci.crypt')
+(-1077.2801971141657, 'sci.crypt')
+(-1631.9222889488476, 'sci.crypt')
+(-7164.8923178379573, 'sci.crypt')
+(-823.47417741169716, 'sci.crypt')
+Classifying sci.electronics
+(-1621.705847841519, 'sci.electronics')
+(-2877.2538574832079, 'sci.electronics')
+(-3110.9782565030714, 'sci.electronics')
+(-2193.2390188957802, 'sci.electronics')
+(-2220.5172407990649, 'sci.electronics')
+(-2198.0249725117969, 'sci.electronics')
+(-1731.4970169157366, 'sci.electronics')
+(-1161.1072583296846, 'rec.sport.hockey')
+(-957.45137339311782, 'sci.electronics')
+(-552.2276457251254, 'sci.space')
+Classifying sci.med
+(-1138.3832129155478, 'sci.med')
+(-1037.0214190852059, 'sci.med')
+(-1757.8114825981318, 'sci.med')
+(-1473.5349439401202, 'sci.med')
+(-1138.4218157611974, 'sci.med')
+(-1006.5055037296223, 'sci.med')
+(-1382.3244448019857, 'sci.med')
+(-770.50718899745505, 'rec.sport.baseball')
+(-2521.5821370514896, 'comp.sys.ibm.pc.hardware')
+(-1038.6010725468304, 'sci.med')
+Classifying sci.space
+(-1584.6337652414929, 'sci.space')
+(-10243.322877545337, 'sci.space')
+(-6873.4143772972384, 'sci.space')
+(-1363.3455369572068, 'sci.crypt')
+(-1038.4391363179018, 'sci.space')
+(-1056.6811763049659, 'talk.politics.misc')
+(-1029.0387640553161, 'sci.space')
+(-1454.5473999929, 'sci.space')
+(-3029.6855084997587, 'sci.space')
+(-638.9431580327863, 'rec.autos')
+Classifying soc.religion.christian
+(-970.62544448126084, 'soc.religion.christian')
+(-1139.2778670929094, 'soc.religion.christian')
+(-517.23670942802562, 'soc.religion.christian')
+(-2406.9919463556525, 'soc.religion.christian')
+(-2256.4809443093977, 'soc.religion.christian')
+(-4295.4236292304031, 'soc.religion.christian')
+(-2711.7268099980179, 'soc.religion.christian')
+(-1945.0422910903778, 'soc.religion.christian')
+(-1184.2853381515383, 'soc.religion.christian')
+(-1121.4921520898999, 'soc.religion.christian')
+Classifying talk.politics.guns
+(-5923.2851958305419, 'talk.politics.guns')
+(-1286.6343646676396, 'talk.politics.guns')
+(-1264.056818979401, 'talk.politics.guns')
+(-3508.6772793926862, 'talk.politics.guns')
+(-1937.6085796792174, 'talk.politics.guns')
+(-3491.300147536102, 'talk.politics.guns')
+(-736.36241329264101, 'talk.politics.misc')
+(-3626.7015157297242, 'talk.politics.guns')
+(-964.09000436038377, 'talk.politics.guns')
+(-1375.3247457877346, 'talk.politics.guns')
+Classifying talk.politics.mideast
+(-759.17567972862525, 'talk.politics.mideast')
+(-1474.0686928941022, 'talk.politics.mideast')
+(-2020.7354106144815, 'talk.politics.mideast')
+(-2658.9968203950616, 'talk.politics.mideast')
+(-1708.0599933383471, 'talk.politics.mideast')
+(-739.76120493985059, 'talk.politics.mideast')
+(-1445.2182630558534, 'talk.politics.mideast')
+(-1360.7667109647221, 'talk.politics.mideast')
+(-1110.9757798808125, 'talk.politics.mideast')
+(-768.52081828988094, 'talk.politics.mideast')
+Classifying talk.politics.misc
+(-1118.926905813446, 'talk.politics.misc')
+(-1854.8929677502849, 'talk.politics.misc')
+(-1466.950010004482, 'talk.politics.misc')
+(-1816.2638358040292, 'talk.religion.misc')
+(-1387.4652075192184, 'talk.politics.misc')
+(-956.82765123431943, 'rec.sport.baseball')
+(-1928.426657102897, 'talk.politics.misc')
+(-1155.7993348961329, 'talk.politics.misc')
+(-1606.4232115476798, 'talk.religion.misc')
+(-1224.2503581256519, 'talk.politics.misc')
+Classifying talk.religion.misc
+(-1993.1213830266927, 'talk.politics.misc')
+(-1438.9386424867398, 'talk.religion.misc')
+(-2023.1010206970234, 'talk.religion.misc')
+(-1272.5145395424995, 'talk.religion.misc')
+(-968.07903053529822, 'talk.religion.misc')
+(-1928.8230511308825, 'alt.atheism')
+(-1498.6168903293096, 'alt.atheism')
+(-856.1209597860543, 'talk.politics.misc')
+(-1719.8681860017364, 'talk.religion.misc')
+(-1145.132798674475, 'talk.politics.misc')
+class alt.atheism has 54 files and 11588 words
+class comp.graphics has 54 files and 18824 words
+class comp.os.ms-windows.misc has 54 files and 11570 words
+class comp.sys.ibm.pc.hardware has 54 files and 9139 words
+class comp.sys.mac.hardware has 54 files and 9568 words
+class comp.windows.x has 54 files and 13813 words
+class misc.forsale has 54 files and 7410 words
+class rec.autos has 54 files and 8756 words
+class rec.motorcycles has 54 files and 8671 words
+class rec.sport.baseball has 54 files and 9231 words
+class rec.sport.hockey has 54 files and 9455 words
+class sci.crypt has 54 files and 10051 words
+class sci.electronics has 54 files and 14079 words
+class sci.med has 54 files and 14467 words
+class sci.space has 54 files and 11332 words
+class soc.religion.christian has 54 files and 13653 words
+class talk.politics.guns has 54 files and 12222 words
+class talk.politics.mideast has 54 files and 13628 words
+class talk.politics.misc has 54 files and 15215 words
+class talk.religion.misc has 54 files and 13670 words
+Top Word in rec.motorcycles:  edu: 0.009769
+Top Word in rec.motorcycles:  com: 0.005976
+Top Word in rec.motorcycles:  cmu: 0.003419
+Top Word in rec.motorcycles:  cs: 0.002729
+Top Word in rec.motorcycles:  news: 0.002586
+Top Word in rec.motorcycles:  motorcycles: 0.002385
+Top Word in rec.motorcycles:  srv: 0.002097
+Top Word in rec.motorcycles:  rec: 0.002069
+Top Word in rec.motorcycles:  apr: 0.001810
+Top Word in rec.motorcycles:  message: 0.001695
+
+
+Top Word in comp.sys.mac.hardware:  edu: 0.012464
+Top Word in comp.sys.mac.hardware:  cmu: 0.003753
+Top Word in comp.sys.mac.hardware:  mac: 0.003725
+Top Word in comp.sys.mac.hardware:  news: 0.002969
+Top Word in comp.sys.mac.hardware:  comp: 0.002801
+Top Word in comp.sys.mac.hardware:  sys: 0.002549
+Top Word in comp.sys.mac.hardware:  hardware: 0.002521
+Top Word in comp.sys.mac.hardware:  cs: 0.002493
+Top Word in comp.sys.mac.hardware:  com: 0.002437
+Top Word in comp.sys.mac.hardware:  srv: 0.002101
+
+
+Top Word in talk.politics.misc:  edu: 0.013519
+Top Word in talk.politics.misc:  com: 0.004692
+Top Word in talk.politics.misc:  cmu: 0.004426
+Top Word in talk.politics.misc:  politics: 0.003628
+Top Word in talk.politics.misc:  misc: 0.003603
+Top Word in talk.politics.misc:  talk: 0.003555
+Top Word in talk.politics.misc:  cs: 0.003241
+Top Word in talk.politics.misc:  news: 0.002878
+Top Word in talk.politics.misc:  srv: 0.002757
+Top Word in talk.politics.misc:  cantaloupe: 0.002370
+
+
+Top Word in soc.religion.christian:  edu: 0.013044
+Top Word in soc.religion.christian:  rutgers: 0.008395
+Top Word in soc.religion.christian:  christian: 0.005178
+Top Word in soc.religion.christian:  god: 0.003569
+Top Word in soc.religion.christian:  geneva: 0.002614
+Top Word in soc.religion.christian:  cmu: 0.002513
+Top Word in soc.religion.christian:  cs: 0.002388
+Top Word in soc.religion.christian:  religion: 0.002337
+Top Word in soc.religion.christian:  net: 0.002212
+Top Word in soc.religion.christian:  soc: 0.002212
+
+
+Top Word in comp.graphics:  edu: 0.010276
+Top Word in comp.graphics:  image: 0.004893
+Top Word in comp.graphics:  graphics: 0.003581
+Top Word in comp.graphics:  cmu: 0.003181
+Top Word in comp.graphics:  data: 0.002958
+Top Word in comp.graphics:  comp: 0.002936
+Top Word in comp.graphics:  cs: 0.002936
+Top Word in comp.graphics:  news: 0.002158
+Top Word in comp.graphics:  com: 0.002113
+Top Word in comp.graphics:  srv: 0.001846
+
+
+Top Word in sci.med:  edu: 0.009335
+Top Word in sci.med:  sci: 0.003547
+Top Word in sci.med:  cmu: 0.003399
+Top Word in sci.med:  com: 0.003202
+Top Word in sci.med:  cs: 0.002783
+Top Word in sci.med:  med: 0.002364
+Top Word in sci.med:  news: 0.002167
+Top Word in sci.med:  srv: 0.002167
+Top Word in sci.med:  candida: 0.001897
+Top Word in sci.med:  cantaloupe: 0.001773
+
+
+Top Word in talk.religion.misc:  edu: 0.012536
+Top Word in talk.religion.misc:  com: 0.006406
+Top Word in talk.religion.misc:  talk: 0.004346
+Top Word in talk.religion.misc:  cmu: 0.004246
+Top Word in talk.religion.misc:  cs: 0.003492
+Top Word in talk.religion.misc:  misc: 0.003040
+Top Word in talk.religion.misc:  religion: 0.002814
+Top Word in talk.religion.misc:  srv: 0.002789
+Top Word in talk.religion.misc:  news: 0.002688
+Top Word in talk.religion.misc:  cantaloupe: 0.002387
+
+
+Top Word in comp.windows.x:  dos: 0.012792
+Top Word in comp.windows.x:  edu: 0.010138
+Top Word in comp.windows.x:  windows: 0.008036
+Top Word in comp.windows.x:  com: 0.003855
+Top Word in comp.windows.x:  cmu: 0.003780
+Top Word in comp.windows.x:  comp: 0.003455
+Top Word in comp.windows.x:  cs: 0.003154
+Top Word in comp.windows.x:  microsoft: 0.002628
+Top Word in comp.windows.x:  window: 0.002428
+Top Word in comp.windows.x:  news: 0.002203
+
+
+Top Word in comp.sys.ibm.pc.hardware:  edu: 0.010575
+Top Word in comp.sys.ibm.pc.hardware:  com: 0.003515
+Top Word in comp.sys.ibm.pc.hardware:  cmu: 0.003317
+Top Word in comp.sys.ibm.pc.hardware:  cs: 0.002977
+Top Word in comp.sys.ibm.pc.hardware:  comp: 0.002722
+Top Word in comp.sys.ibm.pc.hardware:  ibm: 0.002665
+Top Word in comp.sys.ibm.pc.hardware:  pc: 0.002665
+Top Word in comp.sys.ibm.pc.hardware:  net: 0.002381
+Top Word in comp.sys.ibm.pc.hardware:  hardware: 0.002353
+Top Word in comp.sys.ibm.pc.hardware:  srv: 0.002268
+
+
+Top Word in talk.politics.guns:  edu: 0.014000
+Top Word in talk.politics.guns:  com: 0.004849
+Top Word in talk.politics.guns:  cmu: 0.004432
+Top Word in talk.politics.guns:  cs: 0.003103
+Top Word in talk.politics.guns:  guns: 0.003024
+Top Word in talk.politics.guns:  news: 0.002764
+Top Word in talk.politics.guns:  state: 0.002425
+Top Word in talk.politics.guns:  srv: 0.002373
+Top Word in talk.politics.guns:  politics: 0.002346
+Top Word in talk.politics.guns:  talk: 0.002190
+
+
+Top Word in alt.atheism:  edu: 0.014236
+Top Word in alt.atheism:  com: 0.004480
+Top Word in alt.atheism:  cmu: 0.003579
+Top Word in alt.atheism:  cs: 0.003234
+Top Word in alt.atheism:  news: 0.002890
+Top Word in alt.atheism:  atheism: 0.002837
+Top Word in alt.atheism:  net: 0.002333
+Top Word in alt.atheism:  srv: 0.002200
+Top Word in alt.atheism:  alt: 0.002041
+Top Word in alt.atheism:  cantaloupe: 0.001776
+
+
+Top Word in comp.os.ms-windows.misc:  edu: 0.010397
+Top Word in comp.os.ms-windows.misc:  _o: 0.007055
+Top Word in comp.os.ms-windows.misc:  windows: 0.005676
+Top Word in comp.os.ms-windows.misc:  comp: 0.004748
+Top Word in comp.os.ms-windows.misc:  os: 0.004297
+Top Word in comp.os.ms-windows.misc:  ms: 0.003925
+Top Word in comp.os.ms-windows.misc:  cmu: 0.003368
+Top Word in comp.os.ms-windows.misc:  com: 0.003077
+Top Word in comp.os.ms-windows.misc:  cs: 0.002997
+Top Word in comp.os.ms-windows.misc:  misc: 0.002652
+
+
+Top Word in sci.crypt:  edu: 0.009700
+Top Word in sci.crypt:  com: 0.005942
+Top Word in sci.crypt:  cmu: 0.003814
+Top Word in sci.crypt:  cs: 0.003316
+Top Word in sci.crypt:  srv: 0.002460
+Top Word in sci.crypt:  news: 0.002432
+Top Word in sci.crypt:  sci: 0.002432
+Top Word in sci.crypt:  crypt: 0.002156
+Top Word in sci.crypt:  clipper: 0.002156
+Top Word in sci.crypt:  cantaloupe: 0.002128
+
+
+Top Word in sci.space:  edu: 0.012144
+Top Word in sci.space:  space: 0.004698
+Top Word in sci.space:  cmu: 0.004431
+Top Word in sci.space:  sci: 0.003710
+Top Word in sci.space:  cs: 0.003283
+Top Word in sci.space:  news: 0.002589
+Top Word in sci.space:  net: 0.002322
+Top Word in sci.space:  com: 0.002215
+Top Word in sci.space:  srv: 0.002189
+Top Word in sci.space:  cantaloupe: 0.001868
+
+
+Top Word in misc.forsale:  edu: 0.013505
+Top Word in misc.forsale:  cmu: 0.004561
+Top Word in misc.forsale:  forsale: 0.004263
+Top Word in misc.forsale:  cs: 0.003965
+Top Word in misc.forsale:  misc: 0.003697
+Top Word in misc.forsale:  srv: 0.002743
+Top Word in misc.forsale:  news: 0.002713
+Top Word in misc.forsale:  com: 0.002266
+Top Word in misc.forsale:  cantaloupe: 0.002176
+Top Word in misc.forsale:  state: 0.002057
+
+
+Top Word in rec.sport.hockey:  edu: 0.011296
+Top Word in rec.sport.hockey:  cmu: 0.003906
+Top Word in rec.sport.hockey:  ca: 0.003007
+Top Word in rec.sport.hockey:  news: 0.002866
+Top Word in rec.sport.hockey:  com: 0.002754
+Top Word in rec.sport.hockey:  cs: 0.002669
+Top Word in rec.sport.hockey:  hockey: 0.002613
+Top Word in rec.sport.hockey:  net: 0.002051
+Top Word in rec.sport.hockey:  srv: 0.001855
+Top Word in rec.sport.hockey:  sport: 0.001714
+
+
+Top Word in rec.sport.baseball:  edu: 0.011961
+Top Word in rec.sport.baseball:  cs: 0.004128
+Top Word in rec.sport.baseball:  com: 0.003506
+Top Word in rec.sport.baseball:  cmu: 0.002715
+Top Word in rec.sport.baseball:  news: 0.002488
+Top Word in rec.sport.baseball:  baseball: 0.002460
+Top Word in rec.sport.baseball:  net: 0.001951
+Top Word in rec.sport.baseball:  rec: 0.001895
+Top Word in rec.sport.baseball:  sport: 0.001866
+Top Word in rec.sport.baseball:  srv: 0.001810
+
+
+Top Word in sci.electronics:  edu: 0.010171
+Top Word in sci.electronics:  cmu: 0.003332
+Top Word in sci.electronics:  com: 0.002810
+Top Word in sci.electronics:  wire: 0.002760
+Top Word in sci.electronics:  subject: 0.002661
+Top Word in sci.electronics:  cs: 0.002661
+Top Word in sci.electronics:  wiring: 0.002586
+Top Word in sci.electronics:  use: 0.002213
+Top Word in sci.electronics:  news: 0.002064
+Top Word in sci.electronics:  srv: 0.001989
+
+
+Top Word in rec.autos:  edu: 0.011608
+Top Word in rec.autos:  com: 0.005102
+Top Word in rec.autos:  cmu: 0.003898
+Top Word in rec.autos:  cs: 0.003124
+Top Word in rec.autos:  news: 0.002923
+Top Word in rec.autos:  rec: 0.002780
+Top Word in rec.autos:  autos: 0.002780
+Top Word in rec.autos:  srv: 0.002264
+Top Word in rec.autos:  cantaloupe: 0.001863
+Top Word in rec.autos:  net: 0.001834
+
+
+Top Word in talk.politics.mideast:  edu: 0.013153
+Top Word in talk.politics.mideast:  cmu: 0.003999
+Top Word in talk.politics.mideast:  cs: 0.003848
+Top Word in talk.politics.mideast:  soc: 0.003521
+Top Word in talk.politics.mideast:  news: 0.003370
+Top Word in talk.politics.mideast:  culture: 0.003194
+Top Word in talk.politics.mideast:  talk: 0.002842
+Top Word in talk.politics.mideast:  politics: 0.002842
+Top Word in talk.politics.mideast:  turkish: 0.002540
+Top Word in talk.politics.mideast:  com: 0.002515
+
+
+Classifying alt.atheism
+(-920.77951735026556, 'alt.atheism')
+(-1386.5094126794354, 'talk.religion.misc')
+(-934.06657165828994, 'alt.atheism')
+(-798.0532261662679, 'alt.atheism')
+(-1303.7858335858507, 'talk.politics.misc')
+(-838.98555907931382, 'alt.atheism')
+(-1068.8643182191581, 'alt.atheism')
+(-2088.846248667382, 'alt.atheism')
+(-1407.065036522609, 'alt.atheism')
+(-1058.3515534498363, 'alt.atheism')
+Classifying comp.graphics
+(-2077.9434291229068, 'comp.graphics')
+(-1027.2236390554417, 'comp.graphics')
+(-1246.3769090814794, 'comp.graphics')
+(-1177.7994007002428, 'comp.graphics')
+(-749.4917400017813, 'comp.graphics')
+(-617.56590141418849, 'comp.graphics')
+(-2203.3501040824744, 'comp.graphics')
+(-816.03615409291899, 'comp.graphics')
+(-876.81505826383625, 'comp.graphics')
+(-1690.4857287930611, 'comp.graphics')
+Classifying comp.os.ms-windows.misc
+(-1171.7521214242076, 'comp.windows.x')
+(-1082.8173237345754, 'comp.sys.ibm.pc.hardware')
+(-2726.6134659367249, 'comp.os.ms-windows.misc')
+(-713.27406811305264, 'misc.forsale')
+(-2241.5810257803992, 'comp.os.ms-windows.misc')
+(-876.18332037516006, 'comp.os.ms-windows.misc')
+(-739.90837530507838, 'comp.windows.x')
+(-1000.8517408892519, 'comp.os.ms-windows.misc')
+(-1945.4585987342566, 'comp.os.ms-windows.misc')
+(-1428.2963311721808, 'comp.os.ms-windows.misc')
+Classifying comp.sys.ibm.pc.hardware
+(-1847.7807653927537, 'comp.sys.ibm.pc.hardware')
+(-881.13050941288236, 'comp.sys.ibm.pc.hardware')
+(-659.47399725488958, 'comp.sys.mac.hardware')
+(-902.0498406191241, 'comp.sys.ibm.pc.hardware')
+(-836.47473578054246, 'rec.autos')
+(-1120.5039801194196, 'comp.sys.mac.hardware')
+(-1241.7593157317356, 'comp.sys.ibm.pc.hardware')
+(-1303.2294607294821, 'comp.sys.ibm.pc.hardware')
+(-1461.8370035441721, 'comp.sys.ibm.pc.hardware')
+(-1317.767397433282, 'comp.sys.ibm.pc.hardware')
+Classifying comp.sys.mac.hardware
+(-2011.5046800884295, 'comp.sys.mac.hardware')
+(-1033.4629072508578, 'talk.politics.misc')
+(-1530.9586640252173, 'comp.sys.mac.hardware')
+(-2698.0091104585113, 'comp.sys.mac.hardware')
+(-1590.437157875672, 'talk.politics.guns')
+(-1370.5822962745306, 'comp.sys.ibm.pc.hardware')
+(-945.20343335164057, 'comp.sys.ibm.pc.hardware')
+(-798.62270340976886, 'comp.sys.mac.hardware')
+(-1453.1976485488997, 'comp.sys.mac.hardware')
+(-1092.3998658232274, 'comp.sys.mac.hardware')
+Classifying comp.windows.x
+(-1752.1509614972804, 'comp.windows.x')
+(-27184.179822529612, 'comp.graphics')
+(-994.93727689896082, 'comp.windows.x')
+(-1357.002632226111, 'comp.graphics')
+(-927.23677870517918, 'comp.graphics')
+(-2584.3401165917066, 'comp.graphics')
+(-1644.8968707584183, 'comp.graphics')
+(-1130.6864333782185, 'talk.politics.misc')
+(-952.53414144158126, 'comp.windows.x')
+(-635.68307589258575, 'comp.sys.mac.hardware')
+Classifying misc.forsale
+(-1050.2531002765891, 'misc.forsale')
+(-734.41104147877695, 'rec.sport.baseball')
+(-850.46197711315665, 'misc.forsale')
+(-1258.3546648457332, 'talk.politics.misc')
+(-847.7857479390957, 'misc.forsale')
+(-1307.3149919855537, 'misc.forsale')
+(-968.20053289893974, 'misc.forsale')
+(-829.27021116288586, 'misc.forsale')
+(-1303.3492171356634, 'misc.forsale')
+(-1445.7382632083168, 'misc.forsale')
+Classifying rec.autos
+(-2483.404813928435, 'rec.autos')
+(-960.30780313900596, 'rec.motorcycles')
+(-1081.7010101468038, 'rec.autos')
+(-904.92747999579672, 'rec.autos')
+(-1255.0712497132088, 'rec.autos')
+(-1931.8324569963911, 'rec.autos')
+(-2227.8919144588872, 'rec.autos')
+(-609.75740224579317, 'rec.autos')
+(-1492.8569208014328, 'rec.autos')
+(-1555.4593212795232, 'rec.autos')
+Classifying rec.motorcycles
+(-1747.933533340537, 'rec.motorcycles')
+(-1620.1359887451358, 'rec.motorcycles')
+(-1103.8764216338477, 'rec.motorcycles')
+(-488.94524019674196, 'rec.motorcycles')
+(-1858.284150698154, 'rec.motorcycles')
+(-1041.739812150443, 'rec.motorcycles')
+(-1594.186031543941, 'rec.motorcycles')
+(-1543.5217005971392, 'rec.motorcycles')
+(-1589.3700323155163, 'rec.motorcycles')
+(-1282.588091111234, 'rec.motorcycles')
+Classifying rec.sport.baseball
+(-1152.1869167552893, 'alt.atheism')
+(-1019.689037874849, 'rec.sport.baseball')
+(-925.49155529449786, 'rec.sport.baseball')
+(-1315.0534319382723, 'rec.sport.baseball')
+(-2040.2037439804787, 'rec.sport.hockey')
+(-1689.6051886184516, 'rec.sport.baseball')
+(-1279.4536604464349, 'rec.sport.baseball')
+(-1271.2634763589588, 'rec.sport.baseball')
+(-834.64010312483651, 'rec.sport.hockey')
+(-2150.7635474171238, 'rec.sport.baseball')
+Classifying rec.sport.hockey
+(-1953.6606754410977, 'rec.sport.hockey')
+(-4670.3278663899764, 'rec.sport.hockey')
+(-1703.8727817937072, 'rec.sport.hockey')
+(-4020.6012355101689, 'rec.sport.hockey')
+(-2439.7050385533275, 'rec.sport.hockey')
+(-670.43106389220861, 'rec.sport.hockey')
+(-2114.5523034351318, 'rec.sport.hockey')
+(-1239.4915161275028, 'rec.sport.hockey')
+(-1640.3463081994973, 'rec.sport.hockey')
+(-2023.577926449547, 'rec.sport.hockey')
+Classifying sci.crypt
+(-980.14668336627597, 'sci.crypt')
+(-624.73884369454629, 'sci.crypt')
+(-1801.4589358828284, 'comp.graphics')
+(-1086.7277240124788, 'sci.crypt')
+(-7925.5693246915225, 'sci.crypt')
+(-1217.2571241846747, 'sci.crypt')
+(-1079.4052075450488, 'sci.crypt')
+(-1620.17139898295, 'sci.crypt')
+(-7170.382474835259, 'sci.crypt')
+(-841.81577386081437, 'sci.crypt')
+Classifying sci.electronics
+(-1614.691544754146, 'sci.electronics')
+(-2865.3034469968011, 'sci.electronics')
+(-3128.5291238760728, 'sci.electronics')
+(-2222.6840306660447, 'sci.electronics')
+(-2257.176053192286, 'sci.electronics')
+(-2183.116826901592, 'sci.electronics')
+(-1723.6041256908866, 'sci.electronics')
+(-1156.5420434284672, 'comp.sys.mac.hardware')
+(-956.42805223215942, 'rec.sport.baseball')
+(-556.35800600153311, 'sci.space')
+Classifying sci.med
+(-1129.8817096320756, 'sci.med')
+(-1030.5787509436313, 'sci.med')
+(-1741.7033917383324, 'sci.med')
+(-1472.1300392023063, 'sci.med')
+(-1128.2099160731959, 'sci.med')
+(-1000.6686709246421, 'sci.med')
+(-1378.3149734449414, 'sci.med')
+(-776.65298699386506, 'rec.sport.baseball')
+(-2508.7930154824803, 'comp.graphics')
+(-1064.3593882388898, 'sci.med')
+Classifying sci.space
+(-1588.3858569061872, 'sci.space')
+(-10282.949265000156, 'sci.space')
+(-6897.1589936220744, 'sci.space')
+(-1355.2406071936732, 'comp.graphics')
+(-1034.4309458948692, 'sci.space')
+(-1055.4364633330167, 'talk.politics.misc')
+(-1026.9742849747051, 'sci.space')
+(-1466.4305213713283, 'sci.space')
+(-3057.6549808215373, 'sci.space')
+(-640.61103825237831, 'rec.autos')
+Classifying soc.religion.christian
+(-971.02124218308052, 'soc.religion.christian')
+(-1141.4086616818151, 'soc.religion.christian')
+(-524.15569667047316, 'soc.religion.christian')
+(-2418.4993152322008, 'soc.religion.christian')
+(-2255.3558315882606, 'soc.religion.christian')
+(-4294.97528800487, 'soc.religion.christian')
+(-2715.3080048312931, 'soc.religion.christian')
+(-1954.0917705183783, 'soc.religion.christian')
+(-1198.2483311621397, 'soc.religion.christian')
+(-1122.2850375710582, 'soc.religion.christian')
+Classifying talk.politics.guns
+(-5882.4236889258682, 'talk.politics.guns')
+(-1286.2871982275472, 'talk.politics.guns')
+(-1267.0970644232927, 'talk.politics.guns')
+(-3495.5869443239931, 'talk.politics.guns')
+(-1925.1004357558838, 'talk.politics.guns')
+(-3482.1312236055419, 'talk.politics.guns')
+(-739.39394086348523, 'talk.politics.guns')
+(-3629.6347897377782, 'talk.politics.guns')
+(-963.6874791877824, 'talk.politics.guns')
+(-1370.9941892533172, 'talk.politics.guns')
+Classifying talk.politics.mideast
+(-763.75837004024493, 'talk.politics.mideast')
+(-1470.2232915531492, 'talk.politics.mideast')
+(-2038.6528144181696, 'talk.politics.mideast')
+(-2693.76085782067, 'talk.politics.mideast')
+(-1701.2819930245053, 'talk.politics.mideast')
+(-735.9982099041448, 'talk.politics.mideast')
+(-1458.7641876895939, 'talk.politics.mideast')
+(-1367.5446375638071, 'talk.politics.mideast')
+(-1122.4024511957321, 'talk.politics.mideast')
+(-769.32450941229888, 'talk.politics.mideast')
+Classifying talk.politics.misc
+(-1118.3906253619084, 'talk.politics.misc')
+(-1852.0973102195685, 'talk.politics.misc')
+(-1454.0805049276914, 'talk.politics.misc')
+(-1816.9442296885634, 'talk.religion.misc')
+(-1386.7467779907188, 'talk.politics.misc')
+(-957.17849705078697, 'rec.sport.baseball')
+(-1912.8784950788902, 'talk.politics.misc')
+(-1153.8334755252802, 'talk.politics.misc')
+(-1601.8642680504672, 'talk.religion.misc')
+(-1223.8101986015524, 'talk.politics.misc')
+Classifying talk.religion.misc
+(-1983.5772575260346, 'talk.politics.misc')
+(-1436.7417000238486, 'talk.religion.misc')
+(-2016.3848893377021, 'talk.religion.misc')
+(-1278.2120796993286, 'talk.religion.misc')
+(-968.58328215558947, 'talk.religion.misc')
+(-1930.2710271889075, 'alt.atheism')
+(-1501.0224356384417, 'alt.atheism')
+(-864.41794276805911, 'talk.religion.misc')
+(-1713.160791309218, 'talk.religion.misc')
+(-1167.5079255907403, 'talk.politics.misc')
+class alt.atheism has 36 files and 7897 words
+class comp.graphics has 36 files and 10440 words
+class comp.os.ms-windows.misc has 36 files and 8065 words
+class comp.sys.ibm.pc.hardware has 36 files and 6297 words
+class comp.sys.mac.hardware has 36 files and 6062 words
+class comp.windows.x has 36 files and 11314 words
+class misc.forsale has 36 files and 5261 words
+class rec.autos has 36 files and 6032 words
+class rec.motorcycles has 36 files and 5600 words
+class rec.sport.baseball has 36 files and 6135 words
+class rec.sport.hockey has 36 files and 6768 words
+class sci.crypt has 36 files and 7174 words
+class sci.electronics has 36 files and 11203 words
+class sci.med has 36 files and 10619 words
+class sci.space has 36 files and 7362 words
+class soc.religion.christian has 36 files and 7409 words
+class talk.politics.guns has 36 files and 7764 words
+class talk.politics.mideast has 36 files and 9976 words
+class talk.politics.misc has 36 files and 9172 words
+class talk.religion.misc has 36 files and 8474 words
+Top Word in rec.motorcycles:  edu: 0.008660
+Top Word in rec.motorcycles:  com: 0.004520
+Top Word in rec.motorcycles:  cmu: 0.002963
+Top Word in rec.motorcycles:  cs: 0.002317
+Top Word in rec.motorcycles:  news: 0.001975
+Top Word in rec.motorcycles:  motorcycles: 0.001975
+Top Word in rec.motorcycles:  srv: 0.001861
+Top Word in rec.motorcycles:  apr: 0.001671
+Top Word in rec.motorcycles:  rec: 0.001671
+Top Word in rec.motorcycles:  path: 0.001481
+
+
+Top Word in comp.sys.mac.hardware:  edu: 0.009705
+Top Word in comp.sys.mac.hardware:  mac: 0.003509
+Top Word in comp.sys.mac.hardware:  cmu: 0.003024
+Top Word in comp.sys.mac.hardware:  news: 0.002426
+Top Word in comp.sys.mac.hardware:  com: 0.002426
+Top Word in comp.sys.mac.hardware:  comp: 0.002389
+Top Word in comp.sys.mac.hardware:  hardware: 0.002389
+Top Word in comp.sys.mac.hardware:  cs: 0.002277
+Top Word in comp.sys.mac.hardware:  sys: 0.002240
+Top Word in comp.sys.mac.hardware:  srv: 0.001792
+
+
+Top Word in talk.politics.misc:  edu: 0.012442
+Top Word in talk.politics.misc:  com: 0.004214
+Top Word in talk.politics.misc:  cmu: 0.003679
+Top Word in talk.politics.misc:  politics: 0.003646
+Top Word in talk.politics.misc:  talk: 0.003411
+Top Word in talk.politics.misc:  misc: 0.003411
+Top Word in talk.politics.misc:  cs: 0.003010
+Top Word in talk.politics.misc:  news: 0.002776
+Top Word in talk.politics.misc:  srv: 0.002508
+Top Word in talk.politics.misc:  cantaloupe: 0.002241
+
+
+Top Word in soc.religion.christian:  edu: 0.012440
+Top Word in soc.religion.christian:  rutgers: 0.007855
+Top Word in soc.religion.christian:  christian: 0.004585
+Top Word in soc.religion.christian:  geneva: 0.002666
+Top Word in soc.religion.christian:  cmu: 0.002381
+Top Word in soc.religion.christian:  cs: 0.002204
+Top Word in soc.religion.christian:  religion: 0.002132
+Top Word in soc.religion.christian:  net: 0.002097
+Top Word in soc.religion.christian:  soc: 0.002097
+Top Word in soc.religion.christian:  apr: 0.001955
+
+
+Top Word in comp.graphics:  edu: 0.008920
+Top Word in comp.graphics:  graphics: 0.003273
+Top Word in comp.graphics:  cmu: 0.002535
+Top Word in comp.graphics:  data: 0.002535
+Top Word in comp.graphics:  image: 0.002535
+Top Word in comp.graphics:  cs: 0.002471
+Top Word in comp.graphics:  comp: 0.002342
+Top Word in comp.graphics:  com: 0.002053
+Top Word in comp.graphics:  news: 0.001989
+Top Word in comp.graphics:  available: 0.001797
+
+
+Top Word in sci.med:  edu: 0.008263
+Top Word in sci.med:  sci: 0.003541
+Top Word in sci.med:  cmu: 0.003158
+Top Word in sci.med:  com: 0.002616
+Top Word in sci.med:  cs: 0.002552
+Top Word in sci.med:  med: 0.002201
+Top Word in sci.med:  news: 0.001978
+Top Word in sci.med:  srv: 0.001914
+Top Word in sci.med:  candida: 0.001882
+Top Word in sci.med:  cantaloupe: 0.001563
+
+
+Top Word in talk.religion.misc:  edu: 0.011472
+Top Word in talk.religion.misc:  com: 0.005924
+Top Word in talk.religion.misc:  talk: 0.003972
+Top Word in talk.religion.misc:  cmu: 0.003904
+Top Word in talk.religion.misc:  cs: 0.003219
+Top Word in talk.religion.misc:  misc: 0.002842
+Top Word in talk.religion.misc:  srv: 0.002568
+Top Word in talk.religion.misc:  religion: 0.002397
+Top Word in talk.religion.misc:  news: 0.002294
+Top Word in talk.religion.misc:  cantaloupe: 0.002157
+
+
+Top Word in comp.windows.x:  dos: 0.015948
+Top Word in comp.windows.x:  windows: 0.009176
+Top Word in comp.windows.x:  edu: 0.008552
+Top Word in comp.windows.x:  com: 0.003839
+Top Word in comp.windows.x:  comp: 0.003496
+Top Word in comp.windows.x:  cmu: 0.003339
+Top Word in comp.windows.x:  microsoft: 0.003277
+Top Word in comp.windows.x:  cs: 0.002653
+Top Word in comp.windows.x:  ms: 0.002528
+Top Word in comp.windows.x:  tcp: 0.002434
+
+
+Top Word in comp.sys.ibm.pc.hardware:  edu: 0.008955
+Top Word in comp.sys.ibm.pc.hardware:  com: 0.003626
+Top Word in comp.sys.ibm.pc.hardware:  cmu: 0.002886
+Top Word in comp.sys.ibm.pc.hardware:  cs: 0.002553
+Top Word in comp.sys.ibm.pc.hardware:  ibm: 0.002442
+Top Word in comp.sys.ibm.pc.hardware:  pc: 0.002405
+Top Word in comp.sys.ibm.pc.hardware:  comp: 0.002257
+Top Word in comp.sys.ibm.pc.hardware:  hardware: 0.002183
+Top Word in comp.sys.ibm.pc.hardware:  net: 0.002072
+Top Word in comp.sys.ibm.pc.hardware:  srv: 0.001998
+
+
+Top Word in talk.politics.guns:  edu: 0.012987
+Top Word in talk.politics.guns:  cmu: 0.004001
+Top Word in talk.politics.guns:  com: 0.003931
+Top Word in talk.politics.guns:  guns: 0.002808
+Top Word in talk.politics.guns:  cs: 0.002738
+Top Word in talk.politics.guns:  news: 0.002562
+Top Word in talk.politics.guns:  politics: 0.002211
+Top Word in talk.politics.guns:  state: 0.002211
+Top Word in talk.politics.guns:  talk: 0.002106
+Top Word in talk.politics.guns:  srv: 0.002071
+
+
+Top Word in alt.atheism:  edu: 0.012647
+Top Word in alt.atheism:  com: 0.003494
+Top Word in alt.atheism:  cmu: 0.003039
+Top Word in alt.atheism:  atheism: 0.002725
+Top Word in alt.atheism:  cs: 0.002585
+Top Word in alt.atheism:  news: 0.002550
+Top Word in alt.atheism:  net: 0.002096
+Top Word in alt.atheism:  srv: 0.001887
+Top Word in alt.atheism:  alt: 0.001747
+Top Word in alt.atheism:  god: 0.001537
+
+
+Top Word in comp.os.ms-windows.misc:  _o: 0.009239
+Top Word in comp.os.ms-windows.misc:  edu: 0.008857
+Top Word in comp.os.ms-windows.misc:  windows: 0.004411
+Top Word in comp.os.ms-windows.misc:  comp: 0.003925
+Top Word in comp.os.ms-windows.misc:  os: 0.003334
+Top Word in comp.os.ms-windows.misc:  ms: 0.003126
+Top Word in comp.os.ms-windows.misc:  cmu: 0.002883
+Top Word in comp.os.ms-windows.misc:  com: 0.002605
+Top Word in comp.os.ms-windows.misc:  cs: 0.002535
+Top Word in comp.os.ms-windows.misc:  misc: 0.002223
+
+
+Top Word in sci.crypt:  edu: 0.008674
+Top Word in sci.crypt:  com: 0.004516
+Top Word in sci.crypt:  cmu: 0.003226
+Top Word in sci.crypt:  cs: 0.002903
+Top Word in sci.crypt:  srv: 0.002115
+Top Word in sci.crypt:  news: 0.002079
+Top Word in sci.crypt:  clipper: 0.002079
+Top Word in sci.crypt:  net: 0.001864
+Top Word in sci.crypt:  sci: 0.001864
+Top Word in sci.crypt:  crypt: 0.001864
+
+
+Top Word in sci.space:  edu: 0.010716
+Top Word in sci.space:  space: 0.004201
+Top Word in sci.space:  cmu: 0.004094
+Top Word in sci.space:  sci: 0.002812
+Top Word in sci.space:  cs: 0.002812
+Top Word in sci.space:  news: 0.002563
+Top Word in sci.space:  com: 0.002314
+Top Word in sci.space:  net: 0.002100
+Top Word in sci.space:  srv: 0.001922
+Top Word in sci.space:  cantaloupe: 0.001566
+
+
+Top Word in misc.forsale:  edu: 0.011698
+Top Word in misc.forsale:  forsale: 0.003579
+Top Word in misc.forsale:  cs: 0.003579
+Top Word in misc.forsale:  cmu: 0.003540
+Top Word in misc.forsale:  misc: 0.003078
+Top Word in misc.forsale:  news: 0.002463
+Top Word in misc.forsale:  srv: 0.002309
+Top Word in misc.forsale:  cantaloupe: 0.001847
+Top Word in misc.forsale:  state: 0.001809
+Top Word in misc.forsale:  net: 0.001732
+
+
+Top Word in rec.sport.hockey:  edu: 0.009056
+Top Word in rec.sport.hockey:  cmu: 0.003164
+Top Word in rec.sport.hockey:  ca: 0.002801
+Top Word in rec.sport.hockey:  cs: 0.002400
+Top Word in rec.sport.hockey:  com: 0.002328
+Top Word in rec.sport.hockey:  hockey: 0.002291
+Top Word in rec.sport.hockey:  news: 0.002146
+Top Word in rec.sport.hockey:  pit: 0.002146
+Top Word in rec.sport.hockey:  net: 0.001891
+Top Word in rec.sport.hockey:  game: 0.001746
+
+
+Top Word in rec.sport.baseball:  edu: 0.011057
+Top Word in rec.sport.baseball:  cs: 0.003574
+Top Word in rec.sport.baseball:  com: 0.003202
+Top Word in rec.sport.baseball:  cmu: 0.002457
+Top Word in rec.sport.baseball:  news: 0.002048
+Top Word in rec.sport.baseball:  baseball: 0.002048
+Top Word in rec.sport.baseball:  rec: 0.001712
+Top Word in rec.sport.baseball:  net: 0.001675
+Top Word in rec.sport.baseball:  sport: 0.001638
+Top Word in rec.sport.baseball:  srv: 0.001638
+
+
+Top Word in sci.electronics:  edu: 0.008832
+Top Word in sci.electronics:  wire: 0.003476
+Top Word in sci.electronics:  wiring: 0.003257
+Top Word in sci.electronics:  cmu: 0.002881
+Top Word in sci.electronics:  subject: 0.002787
+Top Word in sci.electronics:  use: 0.002568
+Top Word in sci.electronics:  cs: 0.002349
+Top Word in sci.electronics:  com: 0.002286
+Top Word in sci.electronics:  ground: 0.002161
+Top Word in sci.electronics:  news: 0.002098
+
+
+Top Word in rec.autos:  edu: 0.010651
+Top Word in rec.autos:  com: 0.004447
+Top Word in rec.autos:  cmu: 0.003475
+Top Word in rec.autos:  cs: 0.002878
+Top Word in rec.autos:  rec: 0.002653
+Top Word in rec.autos:  autos: 0.002616
+Top Word in rec.autos:  news: 0.002579
+Top Word in rec.autos:  srv: 0.002018
+Top Word in rec.autos:  cantaloupe: 0.001644
+Top Word in rec.autos:  state: 0.001607
+
+
+Top Word in talk.politics.mideast:  edu: 0.011106
+Top Word in talk.politics.mideast:  cs: 0.003583
+Top Word in talk.politics.mideast:  cmu: 0.003452
+Top Word in talk.politics.mideast:  soc: 0.003420
+Top Word in talk.politics.mideast:  culture: 0.003029
+Top Word in talk.politics.mideast:  news: 0.002931
+Top Word in talk.politics.mideast:  turkish: 0.002931
+Top Word in talk.politics.mideast:  politics: 0.002703
+Top Word in talk.politics.mideast:  talk: 0.002638
+Top Word in talk.politics.mideast:  com: 0.002410
+
+
+Classifying alt.atheism
+(-948.82931829227914, 'alt.atheism')
+(-1402.7664842889935, 'talk.religion.misc')
+(-935.90379637879482, 'alt.atheism')
+(-839.12859260430002, 'talk.politics.misc')
+(-1331.504768496716, 'talk.politics.guns')
+(-843.96921982945548, 'alt.atheism')
+(-1075.5458867656507, 'alt.atheism')
+(-2083.2863511052624, 'alt.atheism')
+(-1392.8969716540364, 'alt.atheism')
+(-1070.1341999978401, 'alt.atheism')
+Classifying comp.graphics
+(-2079.4896587023509, 'comp.graphics')
+(-1032.6679729081729, 'comp.graphics')
+(-1259.7471872212514, 'comp.graphics')
+(-1169.352392472809, 'comp.graphics')
+(-751.27815820947694, 'comp.windows.x')
+(-616.66551360801793, 'comp.graphics')
+(-2196.3126143041395, 'comp.graphics')
+(-819.91580951948288, 'comp.graphics')
+(-878.67194887879077, 'comp.graphics')
+(-1686.4058744071262, 'sci.crypt')
+Classifying comp.os.ms-windows.misc
+(-1167.3773509141572, 'comp.windows.x')
+(-1085.5137872724897, 'comp.sys.ibm.pc.hardware')
+(-2704.3432515305385, 'comp.windows.x')
+(-717.23073023322854, 'comp.sys.ibm.pc.hardware')
+(-2224.0964763381253, 'comp.windows.x')
+(-881.73865794803191, 'comp.windows.x')
+(-738.10298956927375, 'comp.windows.x')
+(-1003.3271153899846, 'comp.graphics')
+(-1939.0996200054653, 'comp.windows.x')
+(-1434.3178110227309, 'comp.os.ms-windows.misc')
+Classifying comp.sys.ibm.pc.hardware
+(-1851.259344924506, 'comp.sys.ibm.pc.hardware')
+(-876.14155588967128, 'comp.sys.ibm.pc.hardware')
+(-665.69063389278585, 'comp.sys.mac.hardware')
+(-898.03704527248726, 'comp.sys.ibm.pc.hardware')
+(-840.21285100822524, 'comp.graphics')
+(-1120.186630051362, 'comp.sys.mac.hardware')
+(-1235.3853130810492, 'comp.sys.ibm.pc.hardware')
+(-1300.4853952982844, 'comp.sys.ibm.pc.hardware')
+(-1462.0689105830163, 'comp.sys.ibm.pc.hardware')
+(-1334.4894321329616, 'comp.sys.ibm.pc.hardware')
+Classifying comp.sys.mac.hardware
+(-2048.8056455088713, 'sci.electronics')
+(-1035.278713086567, 'talk.politics.guns')
+(-1539.5979741075244, 'comp.sys.mac.hardware')
+(-2704.9007678925609, 'comp.sys.mac.hardware')
+(-1571.463493183423, 'talk.politics.guns')
+(-1365.4697144806701, 'comp.sys.ibm.pc.hardware')
+(-943.34022686606249, 'sci.crypt')
+(-804.44576145832309, 'comp.graphics')
+(-1471.1743626216969, 'comp.sys.mac.hardware')
+(-1090.1401617397451, 'comp.sys.mac.hardware')
+Classifying comp.windows.x
+(-1748.2262114986215, 'comp.windows.x')
+(-27100.755830130303, 'comp.graphics')
+(-991.03808296338423, 'comp.windows.x')
+(-1355.0203631095687, 'comp.windows.x')
+(-922.65402360757298, 'comp.windows.x')
+(-2602.6221601069992, 'comp.graphics')
+(-1639.1009854513443, 'comp.windows.x')
+(-1126.0110071135684, 'talk.politics.misc')
+(-952.65697470845066, 'comp.windows.x')
+(-637.26184267922144, 'rec.sport.hockey')
+Classifying misc.forsale
+(-1048.8708174318258, 'comp.sys.ibm.pc.hardware')
+(-729.08627754915813, 'rec.sport.baseball')
+(-848.66595368747119, 'rec.sport.hockey')
+(-1256.2679354895786, 'talk.politics.misc')
+(-843.43377670275686, 'misc.forsale')
+(-1305.6105494193616, 'misc.forsale')
+(-963.47158913029045, 'misc.forsale')
+(-830.74184315921298, 'rec.motorcycles')
+(-1297.0343240525531, 'misc.forsale')
+(-1439.110469538399, 'misc.forsale')
+Classifying rec.autos
+(-2479.4225521830699, 'rec.autos')
+(-958.96539605325324, 'rec.motorcycles')
+(-1074.0819325165874, 'rec.autos')
+(-895.43349086703449, 'rec.autos')
+(-1254.9086678542785, 'rec.autos')
+(-1906.8598884991229, 'rec.autos')
+(-2213.2625558706964, 'rec.autos')
+(-610.94540845655035, 'rec.autos')
+(-1486.5579796414449, 'rec.autos')
+(-1561.7776919512191, 'rec.autos')
+Classifying rec.motorcycles
+(-1731.7250253329116, 'rec.motorcycles')
+(-1618.4122371974397, 'rec.motorcycles')
+(-1103.4281739755977, 'rec.sport.hockey')
+(-488.93934962224307, 'rec.motorcycles')
+(-1844.7465548003861, 'rec.motorcycles')
+(-1042.8008390357274, 'rec.motorcycles')
+(-1596.8081480185811, 'rec.motorcycles')
+(-1530.1426524011788, 'rec.motorcycles')
+(-1585.299302573716, 'rec.motorcycles')
+(-1272.2392523971898, 'rec.motorcycles')
+Classifying rec.sport.baseball
+(-1150.1603651164507, 'rec.sport.baseball')
+(-1013.9160735609397, 'rec.sport.baseball')
+(-925.11162930328828, 'rec.sport.baseball')
+(-1309.6491923041251, 'rec.sport.baseball')
+(-2018.6325469761157, 'rec.sport.hockey')
+(-1679.6998231871157, 'rec.sport.baseball')
+(-1273.5647115470902, 'rec.sport.baseball')
+(-1273.8267729854801, 'rec.sport.baseball')
+(-843.87394242647633, 'rec.sport.hockey')
+(-2153.8145529140588, 'rec.sport.baseball')
+Classifying rec.sport.hockey
+(-1957.1410110106749, 'rec.sport.hockey')
+(-4685.0887009410508, 'rec.sport.hockey')
+(-1693.1311325800332, 'rec.sport.hockey')
+(-4018.0694746818522, 'rec.sport.hockey')
+(-2435.1298672252315, 'rec.sport.hockey')
+(-667.51377736408801, 'rec.sport.hockey')
+(-2137.1052546886167, 'rec.sport.hockey')
+(-1234.5837057661113, 'rec.sport.hockey')
+(-1655.1102118652316, 'rec.sport.hockey')
+(-2037.804105603338, 'rec.sport.hockey')
+Classifying sci.crypt
+(-1000.5610518736933, 'sci.crypt')
+(-625.23308596354138, 'talk.religion.misc')
+(-1806.6725710165379, 'comp.graphics')
+(-1085.6999063203114, 'sci.crypt')
+(-7871.2826881992714, 'sci.crypt')
+(-1260.7526611276244, 'sci.crypt')
+(-1080.6632887985861, 'sci.crypt')
+(-1613.3376861789459, 'sci.crypt')
+(-7103.316423222207, 'sci.crypt')
+(-842.59719631315056, 'sci.crypt')
+Classifying sci.electronics
+(-1622.7508612055312, 'sci.electronics')
+(-2844.0595342896659, 'sci.electronics')
+(-3108.6057540413958, 'sci.electronics')
+(-2217.5665282711307, 'sci.electronics')
+(-2252.4340900926099, 'sci.electronics')
+(-2178.1530229643399, 'sci.electronics')
+(-1711.0755253589057, 'sci.space')
+(-1156.8038073393163, 'comp.sys.mac.hardware')
+(-953.3528647194704, 'rec.sport.baseball')
+(-557.79719544131831, 'sci.space')
+Classifying sci.med
+(-1127.3169924621311, 'sci.med')
+(-1036.4953593880171, 'rec.autos')
+(-1729.4380271421644, 'sci.med')
+(-1460.8915648430825, 'sci.med')
+(-1131.9268140474185, 'talk.religion.misc')
+(-1001.6571584597905, 'sci.crypt')
+(-1378.7879663676645, 'sci.med')
+(-770.39097138607224, 'rec.sport.baseball')
+(-2488.2056147506009, 'sci.electronics')
+(-1063.5513730539703, 'talk.politics.misc')
+Classifying sci.space
+(-1580.6205246903087, 'sci.space')
+(-10218.7015176849, 'sci.space')
+(-6884.1147500622155, 'sci.space')
+(-1339.7832051225698, 'comp.graphics')
+(-1036.2759681942455, 'sci.space')
+(-1048.0697778409383, 'talk.politics.misc')
+(-1036.240808896986, 'sci.space')
+(-1464.6391269611483, 'sci.space')
+(-3025.0965864993814, 'sci.space')
+(-640.1376119217332, 'sci.crypt')
+Classifying soc.religion.christian
+(-990.45443942398708, 'soc.religion.christian')
+(-1171.3189738474205, 'soc.religion.christian')
+(-529.02993850310691, 'soc.religion.christian')
+(-2443.4253188543134, 'soc.religion.christian')
+(-2258.30078777365, 'soc.religion.christian')
+(-4317.8839532526417, 'soc.religion.christian')
+(-2752.3256841671569, 'soc.religion.christian')
+(-1958.1616755927278, 'soc.religion.christian')
+(-1213.9355578149728, 'soc.religion.christian')
+(-1126.5670968316319, 'soc.religion.christian')
+Classifying talk.politics.guns
+(-5930.2044138553138, 'talk.politics.guns')
+(-1294.4578787894209, 'talk.politics.guns')
+(-1278.4297982165983, 'talk.politics.guns')
+(-3491.0654937513091, 'talk.politics.guns')
+(-1914.7433155786789, 'talk.politics.guns')
+(-3447.0081525549331, 'talk.politics.guns')
+(-745.54533572096693, 'talk.politics.guns')
+(-3638.3478628370849, 'talk.politics.guns')
+(-970.10231709951881, 'talk.politics.guns')
+(-1391.0774360146715, 'talk.politics.guns')
+Classifying talk.politics.mideast
+(-759.42537822029851, 'talk.politics.mideast')
+(-1459.3588500466067, 'talk.politics.mideast')
+(-2021.2877121036831, 'talk.politics.mideast')
+(-2660.1276135020598, 'talk.politics.mideast')
+(-1718.2980106911837, 'talk.politics.mideast')
+(-732.34545305939275, 'talk.politics.mideast')
+(-1460.4723069256484, 'talk.politics.mideast')
+(-1384.7206056875027, 'talk.politics.mideast')
+(-1144.2382227830306, 'talk.politics.mideast')
+(-769.210548207378, 'talk.politics.mideast')
+Classifying talk.politics.misc
+(-1115.4825301813028, 'talk.politics.misc')
+(-1841.5411188908347, 'talk.politics.misc')
+(-1457.6694667918616, 'talk.politics.misc')
+(-1804.8483572949797, 'talk.religion.misc')
+(-1373.07651125146, 'talk.politics.misc')
+(-952.45682248125661, 'rec.sport.baseball')
+(-1923.4928775526507, 'talk.politics.misc')
+(-1156.9066447342748, 'talk.politics.misc')
+(-1586.0292861729022, 'talk.religion.misc')
+(-1223.1675601723359, 'talk.politics.misc')
+Classifying talk.religion.misc
+(-1985.7839839209164, 'talk.religion.misc')
+(-1431.7390592516758, 'talk.religion.misc')
+(-2009.5082093412832, 'talk.religion.misc')
+(-1282.7832579299948, 'talk.religion.misc')
+(-975.64155830744892, 'talk.religion.misc')
+(-1921.9585468658738, 'alt.atheism')
+(-1505.1935141130623, 'alt.atheism')
+(-862.1907097209637, 'talk.religion.misc')
+(-1722.229484953006, 'talk.religion.misc')
+(-1220.1900773819214, 'talk.politics.misc')
+class alt.atheism has 18 files and 3220 words
+class comp.graphics has 18 files and 7836 words
+class comp.os.ms-windows.misc has 18 files and 5738 words
+class comp.sys.ibm.pc.hardware has 18 files and 2683 words
+class comp.sys.mac.hardware has 18 files and 3026 words
+class comp.windows.x has 18 files and 3249 words
+class misc.forsale has 18 files and 2695 words
+class rec.autos has 18 files and 2418 words
+class rec.motorcycles has 18 files and 2759 words
+class rec.sport.baseball has 18 files and 2561 words
+class rec.sport.hockey has 18 files and 3128 words
+class sci.crypt has 18 files and 3663 words
+class sci.electronics has 18 files and 8527 words
+class sci.med has 18 files and 4122 words
+class sci.space has 18 files and 3239 words
+class soc.religion.christian has 18 files and 2967 words
+class talk.politics.guns has 18 files and 3643 words
+class talk.politics.mideast has 18 files and 5605 words
+class talk.politics.misc has 18 files and 4652 words
+class talk.religion.misc has 18 files and 3689 words
+Top Word in rec.motorcycles:  edu: 0.006542
+Top Word in rec.motorcycles:  com: 0.003446
+Top Word in rec.motorcycles:  cmu: 0.002395
+Top Word in rec.motorcycles:  motorcycles: 0.001752
+Top Word in rec.motorcycles:  cs: 0.001752
+Top Word in rec.motorcycles:  srv: 0.001519
+Top Word in rec.motorcycles:  news: 0.001460
+Top Word in rec.motorcycles:  rec: 0.001402
+Top Word in rec.motorcycles:  apr: 0.001343
+Top Word in rec.motorcycles:  subject: 0.001227
+
+
+Top Word in comp.sys.mac.hardware:  edu: 0.007131
+Top Word in comp.sys.mac.hardware:  cmu: 0.002243
+Top Word in comp.sys.mac.hardware:  mac: 0.002243
+Top Word in comp.sys.mac.hardware:  com: 0.002185
+Top Word in comp.sys.mac.hardware:  cs: 0.002013
+Top Word in comp.sys.mac.hardware:  comp: 0.001955
+Top Word in comp.sys.mac.hardware:  sys: 0.001840
+Top Word in comp.sys.mac.hardware:  hardware: 0.001725
+Top Word in comp.sys.mac.hardware:  news: 0.001610
+Top Word in comp.sys.mac.hardware:  tk: 0.001380
+
+
+Top Word in talk.politics.misc:  edu: 0.010361
+Top Word in talk.politics.misc:  com: 0.003576
+Top Word in talk.politics.misc:  politics: 0.002945
+Top Word in talk.politics.misc:  cmu: 0.002787
+Top Word in talk.politics.misc:  talk: 0.002735
+Top Word in talk.politics.misc:  news: 0.002630
+Top Word in talk.politics.misc:  misc: 0.002524
+Top Word in talk.politics.misc:  cs: 0.002314
+Top Word in talk.politics.misc:  srv: 0.001841
+Top Word in talk.politics.misc:  writes: 0.001736
+
+
+Top Word in soc.religion.christian:  edu: 0.009579
+Top Word in soc.religion.christian:  rutgers: 0.006463
+Top Word in soc.religion.christian:  christian: 0.003520
+Top Word in soc.religion.christian:  geneva: 0.002712
+Top Word in soc.religion.christian:  cmu: 0.001904
+Top Word in soc.religion.christian:  cs: 0.001731
+Top Word in soc.religion.christian:  apr: 0.001673
+Top Word in soc.religion.christian:  com: 0.001616
+Top Word in soc.religion.christian:  net: 0.001558
+Top Word in soc.religion.christian:  religion: 0.001385
+
+
+Top Word in comp.graphics:  edu: 0.007568
+Top Word in comp.graphics:  data: 0.003559
+Top Word in comp.graphics:  image: 0.003379
+Top Word in comp.graphics:  graphics: 0.002883
+Top Word in comp.graphics:  available: 0.002343
+Top Word in comp.graphics:  ftp: 0.002162
+Top Word in comp.graphics:  cmu: 0.001982
+Top Word in comp.graphics:  comp: 0.001982
+Top Word in comp.graphics:  com: 0.001802
+Top Word in comp.graphics:  cs: 0.001667
+
+
+Top Word in sci.med:  edu: 0.007682
+Top Word in sci.med:  cmu: 0.002867
+Top Word in sci.med:  sci: 0.002759
+Top Word in sci.med:  cs: 0.002110
+Top Word in sci.med:  com: 0.001894
+Top Word in sci.med:  candida: 0.001785
+Top Word in sci.med:  srv: 0.001623
+Top Word in sci.med:  med: 0.001569
+Top Word in sci.med:  news: 0.001569
+Top Word in sci.med:  cantaloupe: 0.001244
+
+
+Top Word in talk.religion.misc:  edu: 0.009085
+Top Word in talk.religion.misc:  com: 0.004598
+Top Word in talk.religion.misc:  cmu: 0.003324
+Top Word in talk.religion.misc:  talk: 0.002715
+Top Word in talk.religion.misc:  cs: 0.002604
+Top Word in talk.religion.misc:  misc: 0.002382
+Top Word in talk.religion.misc:  srv: 0.002161
+Top Word in talk.religion.misc:  news: 0.001994
+Top Word in talk.religion.misc:  religion: 0.001884
+Top Word in talk.religion.misc:  cantaloupe: 0.001717
+
+
+Top Word in comp.windows.x:  edu: 0.006246
+Top Word in comp.windows.x:  windows: 0.003407
+Top Word in comp.windows.x:  comp: 0.003237
+Top Word in comp.windows.x:  cmu: 0.002953
+Top Word in comp.windows.x:  com: 0.002896
+Top Word in comp.windows.x:  cs: 0.002612
+Top Word in comp.windows.x:  window: 0.001874
+Top Word in comp.windows.x:  srv: 0.001647
+Top Word in comp.windows.x:  cantaloupe: 0.001420
+Top Word in comp.windows.x:  news: 0.001420
+
+
+Top Word in comp.sys.ibm.pc.hardware:  edu: 0.006630
+Top Word in comp.sys.ibm.pc.hardware:  com: 0.002347
+Top Word in comp.sys.ibm.pc.hardware:  cmu: 0.002229
+Top Word in comp.sys.ibm.pc.hardware:  comp: 0.001877
+Top Word in comp.sys.ibm.pc.hardware:  net: 0.001701
+Top Word in comp.sys.ibm.pc.hardware:  cs: 0.001701
+Top Word in comp.sys.ibm.pc.hardware:  hardware: 0.001584
+Top Word in comp.sys.ibm.pc.hardware:  srv: 0.001584
+Top Word in comp.sys.ibm.pc.hardware:  ibm: 0.001525
+Top Word in comp.sys.ibm.pc.hardware:  pc: 0.001525
+
+
+Top Word in talk.politics.guns:  edu: 0.010275
+Top Word in talk.politics.guns:  cmu: 0.002999
+Top Word in talk.politics.guns:  com: 0.002777
+Top Word in talk.politics.guns:  cs: 0.002388
+Top Word in talk.politics.guns:  guns: 0.002166
+Top Word in talk.politics.guns:  news: 0.001944
+Top Word in talk.politics.guns:  politics: 0.001722
+Top Word in talk.politics.guns:  talk: 0.001555
+Top Word in talk.politics.guns:  srv: 0.001555
+Top Word in talk.politics.guns:  cantaloupe: 0.001333
+
+
+Top Word in alt.atheism:  edu: 0.010181
+Top Word in alt.atheism:  cmu: 0.002503
+Top Word in alt.atheism:  com: 0.002503
+Top Word in alt.atheism:  news: 0.002161
+Top Word in alt.atheism:  cs: 0.002048
+Top Word in alt.atheism:  net: 0.001649
+Top Word in alt.atheism:  srv: 0.001649
+Top Word in alt.atheism:  atheism: 0.001536
+Top Word in alt.atheism:  alt: 0.001308
+Top Word in alt.atheism:  cantaloupe: 0.001251
+
+
+Top Word in comp.os.ms-windows.misc:  _o: 0.013234
+Top Word in comp.os.ms-windows.misc:  edu: 0.006716
+Top Word in comp.os.ms-windows.misc:  comp: 0.003980
+Top Word in comp.os.ms-windows.misc:  windows: 0.003980
+Top Word in comp.os.ms-windows.misc:  os: 0.003184
+Top Word in comp.os.ms-windows.misc:  ms: 0.002935
+Top Word in comp.os.ms-windows.misc:  rlk: 0.002338
+Top Word in comp.os.ms-windows.misc:  cmu: 0.002289
+Top Word in comp.os.ms-windows.misc:  com: 0.002090
+Top Word in comp.os.ms-windows.misc:  misc: 0.001940
+
+
+Top Word in sci.crypt:  edu: 0.006713
+Top Word in sci.crypt:  com: 0.003051
+Top Word in sci.crypt:  cmu: 0.002663
+Top Word in sci.crypt:  cs: 0.002053
+Top Word in sci.crypt:  clipper: 0.001775
+Top Word in sci.crypt:  srv: 0.001553
+Top Word in sci.crypt:  news: 0.001442
+Top Word in sci.crypt:  eff: 0.001442
+Top Word in sci.crypt:  net: 0.001387
+Top Word in sci.crypt:  cantaloupe: 0.001387
+
+
+Top Word in sci.space:  edu: 0.008181
+Top Word in sci.space:  cmu: 0.002954
+Top Word in sci.space:  space: 0.002784
+Top Word in sci.space:  cs: 0.002216
+Top Word in sci.space:  news: 0.002102
+Top Word in sci.space:  sci: 0.002102
+Top Word in sci.space:  net: 0.001648
+Top Word in sci.space:  com: 0.001534
+Top Word in sci.space:  srv: 0.001420
+Top Word in sci.space:  cantaloupe: 0.001193
+
+
+Top Word in misc.forsale:  edu: 0.007973
+Top Word in misc.forsale:  cmu: 0.002814
+Top Word in misc.forsale:  forsale: 0.002755
+Top Word in misc.forsale:  cs: 0.002462
+Top Word in misc.forsale:  misc: 0.001935
+Top Word in misc.forsale:  picture: 0.001935
+Top Word in misc.forsale:  srv: 0.001817
+Top Word in misc.forsale:  sleeve: 0.001759
+Top Word in misc.forsale:  com: 0.001700
+Top Word in misc.forsale:  state: 0.001407
+
+
+Top Word in rec.sport.hockey:  edu: 0.006061
+Top Word in rec.sport.hockey:  pit: 0.003373
+Top Word in rec.sport.hockey:  cmu: 0.002401
+Top Word in rec.sport.hockey:  com: 0.002173
+Top Word in rec.sport.hockey:  ca: 0.001601
+Top Word in rec.sport.hockey:  det: 0.001544
+Top Word in rec.sport.hockey:  news: 0.001487
+Top Word in rec.sport.hockey:  cs: 0.001487
+Top Word in rec.sport.hockey:  net: 0.001429
+Top Word in rec.sport.hockey:  leafs: 0.001429
+
+
+Top Word in rec.sport.baseball:  edu: 0.009159
+Top Word in rec.sport.baseball:  cs: 0.002895
+Top Word in rec.sport.baseball:  cmu: 0.002127
+Top Word in rec.sport.baseball:  com: 0.001891
+Top Word in rec.sport.baseball:  baseball: 0.001832
+Top Word in rec.sport.baseball:  news: 0.001655
+Top Word in rec.sport.baseball:  rec: 0.001595
+Top Word in rec.sport.baseball:  sport: 0.001418
+Top Word in rec.sport.baseball:  srv: 0.001300
+Top Word in rec.sport.baseball:  gant: 0.001241
+
+
+Top Word in sci.electronics:  edu: 0.006029
+Top Word in sci.electronics:  wire: 0.004806
+Top Word in sci.electronics:  wiring: 0.004500
+Top Word in sci.electronics:  use: 0.003146
+Top Word in sci.electronics:  subject: 0.003058
+Top Word in sci.electronics:  ground: 0.002403
+Top Word in sci.electronics:  neutral: 0.002359
+Top Word in sci.electronics:  circuit: 0.002053
+Top Word in sci.electronics:  outlets: 0.001966
+Top Word in sci.electronics:  cable: 0.001922
+
+
+Top Word in rec.autos:  edu: 0.007747
+Top Word in rec.autos:  cmu: 0.002682
+Top Word in rec.autos:  com: 0.002563
+Top Word in rec.autos:  cs: 0.002265
+Top Word in rec.autos:  rec: 0.001728
+Top Word in rec.autos:  autos: 0.001728
+Top Word in rec.autos:  news: 0.001609
+Top Word in rec.autos:  srv: 0.001609
+Top Word in rec.autos:  state: 0.001251
+Top Word in rec.autos:  cantaloupe: 0.001251
+
+
+Top Word in talk.politics.mideast:  edu: 0.007512
+Top Word in talk.politics.mideast:  cs: 0.003105
+Top Word in talk.politics.mideast:  turkish: 0.003055
+Top Word in talk.politics.mideast:  cmu: 0.002905
+Top Word in talk.politics.mideast:  soc: 0.002204
+Top Word in talk.politics.mideast:  politics: 0.002154
+Top Word in talk.politics.mideast:  talk: 0.002103
+Top Word in talk.politics.mideast:  culture: 0.002103
+Top Word in talk.politics.mideast:  news: 0.001903
+Top Word in talk.politics.mideast:  greek: 0.001853
+
+
+Classifying alt.atheism
+(-957.38921539843864, 'talk.religion.misc')
+(-1391.4656856837498, 'talk.politics.misc')
+(-935.91241890055198, 'alt.atheism')
+(-835.69448478916684, 'talk.politics.misc')
+(-1309.6986585524849, 'talk.politics.guns')
+(-869.96538829056533, 'alt.atheism')
+(-1098.8007947856772, 'alt.atheism')
+(-2099.7848617623013, 'alt.atheism')
+(-1420.4067733145876, 'alt.atheism')
+(-1100.3897496974066, 'alt.atheism')
+Classifying comp.graphics
+(-2059.3255863269765, 'comp.graphics')
+(-1031.9662247215986, 'comp.graphics')
+(-1247.6876194357826, 'comp.graphics')
+(-1164.2270550313328, 'comp.graphics')
+(-757.19646571398323, 'comp.os.ms-windows.misc')
+(-620.70418503300982, 'comp.graphics')
+(-2173.1209163317299, 'comp.graphics')
+(-826.93937976796303, 'comp.graphics')
+(-880.31450724166154, 'comp.windows.x')
+(-1683.8431464491539, 'comp.graphics')
+Classifying comp.os.ms-windows.misc
+(-1184.0616428960436, 'comp.os.ms-windows.misc')
+(-1085.0030866804036, 'comp.graphics')
+(-2724.8316707991735, 'comp.os.ms-windows.misc')
+(-732.2478773700384, 'comp.windows.x')
+(-2222.7322186175497, 'comp.os.ms-windows.misc')
+(-891.89585417543799, 'comp.os.ms-windows.misc')
+(-758.23332062057364, 'comp.sys.ibm.pc.hardware')
+(-997.43198463834676, 'comp.graphics')
+(-1944.8888551114976, 'comp.graphics')
+(-1438.6356119887309, 'comp.os.ms-windows.misc')
+Classifying comp.sys.ibm.pc.hardware
+(-1847.1567936745755, 'comp.sys.ibm.pc.hardware')
+(-887.51287841559531, 'comp.sys.ibm.pc.hardware')
+(-666.84929265101539, 'comp.sys.mac.hardware')
+(-895.21736770267046, 'comp.sys.ibm.pc.hardware')
+(-835.49801018417827, 'comp.sys.mac.hardware')
+(-1109.7853432765887, 'comp.sys.mac.hardware')
+(-1240.8631351703955, 'sci.crypt')
+(-1301.413870624878, 'comp.sys.ibm.pc.hardware')
+(-1494.7691837919838, 'comp.sys.mac.hardware')
+(-1357.972767412203, 'comp.sys.ibm.pc.hardware')
+Classifying comp.sys.mac.hardware
+(-2034.6740424624697, 'sci.electronics')
+(-1051.0458631734089, 'talk.politics.guns')
+(-1529.3996679072334, 'comp.graphics')
+(-2684.1214005286811, 'comp.sys.mac.hardware')
+(-1556.2404302951172, 'talk.politics.guns')
+(-1366.7973128778606, 'comp.graphics')
+(-941.58830243401019, 'alt.atheism')
+(-799.50882768025531, 'comp.graphics')
+(-1478.7091463401996, 'comp.sys.mac.hardware')
+(-1091.3072473581528, 'comp.sys.mac.hardware')
+Classifying comp.windows.x
+(-1722.4227817155181, 'comp.windows.x')
+(-26580.366902683316, 'comp.graphics')
+(-981.3009394521863, 'comp.windows.x')
+(-1329.3921299189499, 'comp.windows.x')
+(-912.40643697727637, 'comp.windows.x')
+(-2559.822332932466, 'comp.graphics')
+(-1599.0943202383255, 'comp.windows.x')
+(-1122.3659067035169, 'talk.politics.misc')
+(-964.57172150688029, 'comp.windows.x')
+(-635.43461182354542, 'talk.religion.misc')
+Classifying misc.forsale
+(-1041.3326279209318, 'comp.sys.ibm.pc.hardware')
+(-739.4953687852734, 'misc.forsale')
+(-841.58257702711546, 'comp.sys.mac.hardware')
+(-1243.0478750371126, 'talk.politics.misc')
+(-851.79094219943079, 'misc.forsale')
+(-1309.7693919267142, 'misc.forsale')
+(-961.31996299346611, 'misc.forsale')
+(-817.60976297057834, 'rec.motorcycles')
+(-1282.3133898868327, 'misc.forsale')
+(-1439.0993077544663, 'misc.forsale')
+Classifying rec.autos
+(-2465.4556353278558, 'rec.autos')
+(-953.6133893513977, 'rec.motorcycles')
+(-1102.7699865912032, 'talk.religion.misc')
+(-887.57281931628313, 'rec.autos')
+(-1255.1162096011681, 'talk.politics.guns')
+(-1941.6317010233452, 'talk.politics.misc')
+(-2206.212916931403, 'rec.motorcycles')
+(-629.56745623638801, 'rec.autos')
+(-1491.7173207346209, 'rec.autos')
+(-1563.4627404911857, 'rec.autos')
+Classifying rec.motorcycles
+(-1708.284054413321, 'talk.politics.misc')
+(-1622.6002039504735, 'rec.motorcycles')
+(-1092.0861930973317, 'rec.sport.hockey')
+(-492.18087686871286, 'rec.sport.baseball')
+(-1822.9153967821264, 'rec.motorcycles')
+(-1037.6637166984794, 'rec.autos')
+(-1597.3674384821322, 'rec.motorcycles')
+(-1502.8292005967558, 'rec.motorcycles')
+(-1598.4869868154428, 'rec.autos')
+(-1257.2705591970032, 'rec.motorcycles')
+Classifying rec.sport.baseball
+(-1149.2735732432941, 'rec.sport.baseball')
+(-1013.3045486329297, 'rec.sport.baseball')
+(-920.51165234167672, 'talk.politics.guns')
+(-1301.5455310980938, 'rec.sport.baseball')
+(-2014.931109531625, 'rec.sport.baseball')
+(-1676.1405056361566, 'rec.sport.baseball')
+(-1273.1207926666073, 'rec.sport.baseball')
+(-1274.2999556921718, 'rec.sport.baseball')
+(-858.15695042116079, 'rec.sport.hockey')
+(-2153.502508521271, 'rec.sport.baseball')
+Classifying rec.sport.hockey
+(-1949.6064543503376, 'rec.sport.hockey')
+(-4708.5033167395313, 'rec.sport.hockey')
+(-1710.8148416834506, 'rec.sport.hockey')
+(-3990.2864241210987, 'rec.sport.hockey')
+(-2475.7232011282749, 'rec.sport.hockey')
+(-663.7364610804043, 'rec.sport.hockey')
+(-2159.6252715075657, 'rec.sport.hockey')
+(-1239.0538102765449, 'rec.sport.hockey')
+(-1665.9960930149489, 'rec.sport.hockey')
+(-2023.3784094394866, 'rec.sport.hockey')
+Classifying sci.crypt
+(-1016.0121008464696, 'sci.crypt')
+(-625.93422920764135, 'talk.religion.misc')
+(-1787.249360592702, 'comp.graphics')
+(-1096.0169876103889, 'sci.crypt')
+(-7937.6418293136267, 'sci.crypt')
+(-1265.5592952997033, 'sci.crypt')
+(-1082.0270737292328, 'sci.crypt')
+(-1608.9011136793411, 'sci.med')
+(-6983.8233211919151, 'sci.crypt')
+(-845.35222548045613, 'sci.crypt')
+Classifying sci.electronics
+(-1610.2610035075061, 'sci.electronics')
+(-2822.0968240195266, 'sci.electronics')
+(-3086.1251904294872, 'sci.electronics')
+(-2197.7357884976404, 'sci.electronics')
+(-2239.4424373988895, 'sci.electronics')
+(-2158.571053122615, 'rec.autos')
+(-1689.7809988572255, 'comp.sys.mac.hardware')
+(-1149.2577996758926, 'rec.sport.hockey')
+(-950.3843166847696, 'rec.sport.baseball')
+(-560.4721494643826, 'rec.sport.hockey')
+Classifying sci.med
+(-1149.5061440886955, 'sci.med')
+(-1029.6304519493126, 'rec.autos')
+(-1761.437297776625, 'sci.med')
+(-1464.3709872482918, 'sci.space')
+(-1124.5897430446205, 'talk.religion.misc')
+(-993.80587744834872, 'talk.religion.misc')
+(-1373.3578317429203, 'sci.med')
+(-770.98621928465332, 'sci.med')
+(-2433.3881556302181, 'comp.sys.mac.hardware')
+(-1051.3183595833655, 'talk.politics.misc')
+Classifying sci.space
+(-1635.3172818712485, 'sci.space')
+(-10101.36910045526, 'sci.space')
+(-6829.7559195815584, 'sci.space')
+(-1323.5785752687689, 'sci.space')
+(-1066.0001485950315, 'sci.space')
+(-1048.240324238149, 'talk.politics.misc')
+(-1076.6382686176535, 'sci.space')
+(-1479.0016885555192, 'sci.space')
+(-3165.1887457992189, 'comp.graphics')
+(-631.52849141476929, 'sci.med')
+Classifying soc.religion.christian
+(-989.65677955883041, 'soc.religion.christian')
+(-1178.2835890796562, 'soc.religion.christian')
+(-541.6466632631732, 'soc.religion.christian')
+(-2461.6473383396165, 'soc.religion.christian')
+(-2248.9848993407873, 'soc.religion.christian')
+(-4323.0010891442971, 'soc.religion.christian')
+(-2796.5004049581266, 'soc.religion.christian')
+(-1948.4165391652614, 'soc.religion.christian')
+(-1212.0771101600064, 'soc.religion.christian')
+(-1131.7673097826407, 'soc.religion.christian')
+Classifying talk.politics.guns
+(-5851.2323063817685, 'talk.politics.misc')
+(-1317.8878969271293, 'talk.politics.guns')
+(-1281.6666396519649, 'talk.politics.guns')
+(-3474.9762177644661, 'talk.politics.misc')
+(-1917.224431539234, 'talk.politics.misc')
+(-3414.5349894223509, 'talk.politics.guns')
+(-750.45769858811218, 'talk.politics.guns')
+(-3594.6475124651988, 'talk.politics.misc')
+(-976.47912714008248, 'talk.politics.misc')
+(-1416.8013422204754, 'sci.crypt')
+Classifying talk.politics.mideast
+(-801.07745942781492, 'talk.politics.mideast')
+(-1459.557574436109, 'talk.politics.mideast')
+(-2045.5624123221771, 'talk.politics.mideast')
+(-2656.7124775734642, 'talk.politics.mideast')
+(-1714.2462230538633, 'talk.politics.mideast')
+(-740.26659948394274, 'talk.politics.mideast')
+(-1512.4706079281195, 'talk.politics.mideast')
+(-1372.1579467752626, 'talk.politics.misc')
+(-1136.5415044690258, 'talk.politics.guns')
+(-766.74893094152947, 'talk.politics.misc')
+Classifying talk.politics.misc
+(-1112.3471393359391, 'talk.politics.misc')
+(-1823.4268344548557, 'talk.politics.misc')
+(-1460.2450335586316, 'talk.politics.misc')
+(-1791.046085362656, 'talk.religion.misc')
+(-1370.5596366777809, 'talk.politics.misc')
+(-970.68077923194153, 'talk.religion.misc')
+(-1929.1762751893734, 'talk.politics.misc')
+(-1163.7117352730263, 'talk.politics.misc')
+(-1564.4795221519314, 'talk.religion.misc')
+(-1219.0019477472349, 'talk.politics.misc')
+Classifying talk.religion.misc
+(-1991.9279201952754, 'talk.politics.misc')
+(-1435.7524586853544, 'talk.religion.misc')
+(-1991.7207074540026, 'talk.religion.misc')
+(-1273.0212023637416, 'talk.politics.misc')
+(-988.30183102467834, 'alt.atheism')
+(-1924.5374002770302, 'alt.atheism')
+(-1519.4076996258777, 'talk.politics.misc')
+(-881.06195953560746, 'talk.religion.misc')
+(-1708.8605364102787, 'alt.atheism')
+(-1229.868378177325, 'talk.politics.guns')
+class alt.atheism has 9 files and 1309 words
+class comp.graphics has 9 files and 1496 words
+class comp.os.ms-windows.misc has 9 files and 4107 words
+class comp.sys.ibm.pc.hardware has 9 files and 1380 words
+class comp.sys.mac.hardware has 9 files and 1515 words
+class comp.windows.x has 9 files and 1433 words
+class misc.forsale has 9 files and 1191 words
+class rec.autos has 9 files and 1256 words
+class rec.motorcycles has 9 files and 1427 words
+class rec.sport.baseball has 9 files and 1148 words
+class rec.sport.hockey has 9 files and 1598 words
+class sci.crypt has 9 files and 1974 words
+class sci.electronics has 9 files and 6848 words
+class sci.med has 9 files and 2628 words
+class sci.space has 9 files and 1683 words
+class soc.religion.christian has 9 files and 1541 words
+class talk.politics.guns has 9 files and 1755 words
+class talk.politics.mideast has 9 files and 2227 words
+class talk.politics.misc has 9 files and 2795 words
+class talk.religion.misc has 9 files and 1636 words
+Top Word in rec.motorcycles:  edu: 0.003954
+Top Word in rec.motorcycles:  com: 0.002965
+Top Word in rec.motorcycles:  bmw: 0.001528
+Top Word in rec.motorcycles:  cmu: 0.001348
+Top Word in rec.motorcycles:  mm: 0.001348
+Top Word in rec.motorcycles:  ww: 0.001348
+Top Word in rec.motorcycles:  list: 0.001168
+Top Word in rec.motorcycles:  motorcycles: 0.001168
+Top Word in rec.motorcycles:  netcom: 0.001168
+Top Word in rec.motorcycles:  bike: 0.001078
+
+
+Top Word in comp.sys.mac.hardware:  edu: 0.005439
+Top Word in comp.sys.mac.hardware:  tk: 0.002140
+Top Word in comp.sys.mac.hardware:  cmu: 0.001694
+Top Word in comp.sys.mac.hardware:  comp: 0.001605
+Top Word in comp.sys.mac.hardware:  com: 0.001516
+Top Word in comp.sys.mac.hardware:  mac: 0.001427
+Top Word in comp.sys.mac.hardware:  sys: 0.001427
+Top Word in comp.sys.mac.hardware:  cs: 0.001427
+Top Word in comp.sys.mac.hardware:  hardware: 0.001427
+Top Word in comp.sys.mac.hardware:  mb: 0.001337
+
+
+Top Word in talk.politics.misc:  edu: 0.008803
+Top Word in talk.politics.misc:  com: 0.003201
+Top Word in talk.politics.misc:  news: 0.002641
+Top Word in talk.politics.misc:  cmu: 0.002401
+Top Word in talk.politics.misc:  talk: 0.002001
+Top Word in talk.politics.misc:  cs: 0.002001
+Top Word in talk.politics.misc:  misc: 0.001841
+Top Word in talk.politics.misc:  insurance: 0.001761
+Top Word in talk.politics.misc:  cc: 0.001681
+Top Word in talk.politics.misc:  politics: 0.001681
+
+
+Top Word in soc.religion.christian:  edu: 0.007116
+Top Word in soc.religion.christian:  rutgers: 0.004714
+Top Word in soc.religion.christian:  christian: 0.002669
+Top Word in soc.religion.christian:  geneva: 0.002224
+Top Word in soc.religion.christian:  cmu: 0.001601
+Top Word in soc.religion.christian:  com: 0.001601
+Top Word in soc.religion.christian:  net: 0.001334
+Top Word in soc.religion.christian:  apr: 0.001245
+Top Word in soc.religion.christian:  cs: 0.001156
+Top Word in soc.religion.christian:  religion: 0.001156
+
+
+Top Word in comp.graphics:  edu: 0.004019
+Top Word in comp.graphics:  alt: 0.002411
+Top Word in comp.graphics:  image: 0.002054
+Top Word in comp.graphics:  cmu: 0.001965
+Top Word in comp.graphics:  graphics: 0.001697
+Top Word in comp.graphics:  comp: 0.001518
+Top Word in comp.graphics:  cs: 0.001518
+Top Word in comp.graphics:  carlos: 0.001250
+Top Word in comp.graphics:  srv: 0.001250
+Top Word in comp.graphics:  xv: 0.001161
+
+
+Top Word in sci.med:  edu: 0.006245
+Top Word in sci.med:  candida: 0.002677
+Top Word in sci.med:  sci: 0.002271
+Top Word in sci.med:  cmu: 0.002190
+Top Word in sci.med:  cs: 0.001947
+Top Word in sci.med:  food: 0.001379
+Top Word in sci.med:  bacteria: 0.001298
+Top Word in sci.med:  med: 0.001298
+Top Word in sci.med:  news: 0.001298
+Top Word in sci.med:  srv: 0.001298
+
+
+Top Word in talk.religion.misc:  edu: 0.008909
+Top Word in talk.religion.misc:  cmu: 0.002734
+Top Word in talk.religion.misc:  cs: 0.002293
+Top Word in talk.religion.misc:  jim: 0.002205
+Top Word in talk.religion.misc:  talk: 0.001941
+Top Word in talk.religion.misc:  misc: 0.001941
+Top Word in talk.religion.misc:  news: 0.001764
+Top Word in talk.religion.misc:  com: 0.001676
+Top Word in talk.religion.misc:  srv: 0.001676
+Top Word in talk.religion.misc:  religion: 0.001411
+
+
+Top Word in comp.windows.x:  edu: 0.004311
+Top Word in comp.windows.x:  cmu: 0.002784
+Top Word in comp.windows.x:  com: 0.002784
+Top Word in comp.windows.x:  windows: 0.002066
+Top Word in comp.windows.x:  comp: 0.001796
+Top Word in comp.windows.x:  cs: 0.001796
+Top Word in comp.windows.x:  __: 0.001527
+Top Word in comp.windows.x:  window: 0.001527
+Top Word in comp.windows.x:  srv: 0.001437
+Top Word in comp.windows.x:  news: 0.001168
+
+
+Top Word in comp.sys.ibm.pc.hardware:  edu: 0.004693
+Top Word in comp.sys.ibm.pc.hardware:  com: 0.001624
+Top Word in comp.sys.ibm.pc.hardware:  cmu: 0.001534
+Top Word in comp.sys.ibm.pc.hardware:  net: 0.001354
+Top Word in comp.sys.ibm.pc.hardware:  comp: 0.001354
+Top Word in comp.sys.ibm.pc.hardware:  irq: 0.001263
+Top Word in comp.sys.ibm.pc.hardware:  cs: 0.001263
+Top Word in comp.sys.ibm.pc.hardware:  pc: 0.001173
+Top Word in comp.sys.ibm.pc.hardware:  hardware: 0.001083
+Top Word in comp.sys.ibm.pc.hardware:  date: 0.001083
+
+
+Top Word in talk.politics.guns:  edu: 0.007507
+Top Word in talk.politics.guns:  cmu: 0.002357
+Top Word in talk.politics.guns:  com: 0.002270
+Top Word in talk.politics.guns:  guns: 0.002182
+Top Word in talk.politics.guns:  news: 0.001659
+Top Word in talk.politics.guns:  cs: 0.001484
+Top Word in talk.politics.guns:  politics: 0.001397
+Top Word in talk.politics.guns:  people: 0.001309
+Top Word in talk.politics.guns:  talk: 0.001135
+Top Word in talk.politics.guns:  srv: 0.001135
+
+
+Top Word in alt.atheism:  edu: 0.008356
+Top Word in alt.atheism:  cmu: 0.001907
+Top Word in alt.atheism:  cs: 0.001726
+Top Word in alt.atheism:  news: 0.001544
+Top Word in alt.atheism:  com: 0.001362
+Top Word in alt.atheism:  srv: 0.001272
+Top Word in alt.atheism:  net: 0.001181
+Top Word in alt.atheism:  atheism: 0.001090
+Top Word in alt.atheism:  alt: 0.000999
+Top Word in alt.atheism:  lines: 0.000999
+
+
+Top Word in comp.os.ms-windows.misc:  _o: 0.019264
+Top Word in comp.os.ms-windows.misc:  edu: 0.004418
+Top Word in comp.os.ms-windows.misc:  rlk: 0.003404
+Top Word in comp.os.ms-windows.misc:  _lw: 0.002824
+Top Word in comp.os.ms-windows.misc:  lq: 0.002824
+Top Word in comp.os.ms-windows.misc:  mu: 0.002317
+Top Word in comp.os.ms-windows.misc:  mk: 0.002245
+Top Word in comp.os.ms-windows.misc:  windows: 0.002245
+Top Word in comp.os.ms-windows.misc:  el: 0.002173
+Top Word in comp.os.ms-windows.misc:  ql: 0.002100
+
+
+Top Word in sci.crypt:  edu: 0.005482
+Top Word in sci.crypt:  cmu: 0.002056
+Top Word in sci.crypt:  cs: 0.002056
+Top Word in sci.crypt:  com: 0.001884
+Top Word in sci.crypt:  eff: 0.001713
+Top Word in sci.crypt:  clipper: 0.001713
+Top Word in sci.crypt:  org: 0.001456
+Top Word in sci.crypt:  clinton: 0.001285
+Top Word in sci.crypt:  srv: 0.001285
+Top Word in sci.crypt:  nist: 0.001199
+
+
+Top Word in sci.space:  edu: 0.006325
+Top Word in sci.space:  cmu: 0.001933
+Top Word in sci.space:  news: 0.001757
+Top Word in sci.space:  com: 0.001669
+Top Word in sci.space:  cs: 0.001581
+Top Word in sci.space:  sci: 0.001405
+Top Word in sci.space:  space: 0.001230
+Top Word in sci.space:  net: 0.001054
+Top Word in sci.space:  apple: 0.001054
+Top Word in sci.space:  tools: 0.001054
+
+
+Top Word in misc.forsale:  edu: 0.006151
+Top Word in misc.forsale:  picture: 0.002846
+Top Word in misc.forsale:  sleeve: 0.002754
+Top Word in misc.forsale:  cmu: 0.002295
+Top Word in misc.forsale:  state: 0.001836
+Top Word in misc.forsale:  cs: 0.001836
+Top Word in misc.forsale:  forsale: 0.001744
+Top Word in misc.forsale:  ohio: 0.001653
+Top Word in misc.forsale:  misc: 0.001377
+Top Word in misc.forsale:  srv: 0.001377
+
+
+Top Word in rec.sport.hockey:  edu: 0.003894
+Top Word in rec.sport.hockey:  cmu: 0.002036
+Top Word in rec.sport.hockey:  com: 0.001859
+Top Word in rec.sport.hockey:  april: 0.001328
+Top Word in rec.sport.hockey:  hockey: 0.001239
+Top Word in rec.sport.hockey:  andrew: 0.001239
+Top Word in rec.sport.hockey:  leafs: 0.001151
+Top Word in rec.sport.hockey:  rec: 0.000974
+Top Word in rec.sport.hockey:  sport: 0.000974
+Top Word in rec.sport.hockey:  cs: 0.000974
+
+
+Top Word in rec.sport.baseball:  edu: 0.006452
+Top Word in rec.sport.baseball:  cs: 0.002489
+Top Word in rec.sport.baseball:  gant: 0.001843
+Top Word in rec.sport.baseball:  cmu: 0.001843
+Top Word in rec.sport.baseball:  hirschbeck: 0.001567
+Top Word in rec.sport.baseball:  com: 0.001475
+Top Word in rec.sport.baseball:  rec: 0.001383
+Top Word in rec.sport.baseball:  team: 0.001290
+Top Word in rec.sport.baseball:  baseball: 0.001198
+Top Word in rec.sport.baseball:  sport: 0.001106
+
+
+Top Word in sci.electronics:  wire: 0.006647
+Top Word in sci.electronics:  wiring: 0.006224
+Top Word in sci.electronics:  use: 0.003928
+Top Word in sci.electronics:  edu: 0.003867
+Top Word in sci.electronics:  subject: 0.003626
+Top Word in sci.electronics:  ground: 0.003263
+Top Word in sci.electronics:  neutral: 0.003263
+Top Word in sci.electronics:  circuit: 0.002780
+Top Word in sci.electronics:  outlets: 0.002719
+Top Word in sci.electronics:  cable: 0.002659
+
+
+Top Word in rec.autos:  edu: 0.005658
+Top Word in rec.autos:  com: 0.002282
+Top Word in rec.autos:  cmu: 0.002099
+Top Word in rec.autos:  rec: 0.001552
+Top Word in rec.autos:  autos: 0.001552
+Top Word in rec.autos:  ca: 0.001369
+Top Word in rec.autos:  cs: 0.001369
+Top Word in rec.autos:  srv: 0.001278
+Top Word in rec.autos:  hp: 0.001186
+Top Word in rec.autos:  diesel: 0.001004
+
+
+Top Word in talk.politics.mideast:  edu: 0.006791
+Top Word in talk.politics.mideast:  cs: 0.003018
+Top Word in talk.politics.mideast:  cmu: 0.002599
+Top Word in talk.politics.mideast:  istanbul: 0.002180
+Top Word in talk.politics.mideast:  soc: 0.001928
+Top Word in talk.politics.mideast:  politics: 0.001928
+Top Word in talk.politics.mideast:  talk: 0.001844
+Top Word in talk.politics.mideast:  culture: 0.001761
+Top Word in talk.politics.mideast:  srv: 0.001593
+Top Word in talk.politics.mideast:  news: 0.001509
+
+
+Classifying alt.atheism
+(-978.17207756374148, 'talk.politics.misc')
+(-1363.3261439650335, 'talk.politics.misc')
+(-944.02504976188459, 'talk.religion.misc')
+(-831.37694221842298, 'talk.politics.misc')
+(-1315.4047978486904, 'comp.sys.ibm.pc.hardware')
+(-893.89227986157334, 'talk.religion.misc')
+(-1127.0496839059385, 'talk.politics.misc')
+(-2082.3459961955318, 'talk.politics.misc')
+(-1393.2627174951501, 'talk.religion.misc')
+(-1164.5001571008831, 'talk.politics.misc')
+Classifying comp.graphics
+(-2020.7353271581815, 'comp.sys.ibm.pc.hardware')
+(-1037.7601114088448, 'comp.windows.x')
+(-1243.7836045131257, 'comp.graphics')
+(-1170.5326436338255, 'comp.graphics')
+(-762.52767695329612, 'comp.sys.ibm.pc.hardware')
+(-638.70070663227864, 'talk.politics.guns')
+(-2166.1547876684663, 'comp.sys.ibm.pc.hardware')
+(-833.72521346068629, 'comp.graphics')
+(-879.45551938905578, 'comp.windows.x')
+(-1672.018878971315, 'comp.graphics')
+Classifying comp.os.ms-windows.misc
+(-1196.719645631918, 'comp.windows.x')
+(-1067.7818539593952, 'talk.politics.misc')
+(-2785.5109370507766, 'comp.os.ms-windows.misc')
+(-744.09712833008314, 'comp.windows.x')
+(-2210.5192356125049, 'comp.sys.ibm.pc.hardware')
+(-926.75881848768802, 'comp.sys.ibm.pc.hardware')
+(-757.49004394412941, 'comp.windows.x')
+(-980.8177788488382, 'comp.graphics')
+(-1943.2182904704011, 'comp.windows.x')
+(-1451.6057698845345, 'comp.windows.x')
+Classifying comp.sys.ibm.pc.hardware
+(-1814.4339282297294, 'comp.sys.ibm.pc.hardware')
+(-903.61713025161862, 'comp.sys.ibm.pc.hardware')
+(-666.78510577335646, 'comp.windows.x')
+(-889.23329877966819, 'comp.sys.ibm.pc.hardware')
+(-826.66756393774403, 'talk.politics.misc')
+(-1105.8125127743147, 'comp.sys.mac.hardware')
+(-1234.8488791303942, 'talk.politics.misc')
+(-1282.0841195480564, 'comp.sys.ibm.pc.hardware')
+(-1482.1941624293477, 'comp.sys.ibm.pc.hardware')
+(-1345.4888452239989, 'comp.sys.ibm.pc.hardware')
+Classifying comp.sys.mac.hardware
+(-2012.5440696103833, 'comp.sys.ibm.pc.hardware')
+(-1041.0292058452017, 'misc.forsale')
+(-1531.6508571252261, 'comp.sys.mac.hardware')
+(-2619.993350438026, 'comp.sys.mac.hardware')
+(-1567.7225290009417, 'comp.sys.mac.hardware')
+(-1338.3157449409132, 'comp.sys.mac.hardware')
+(-926.07737531844145, 'alt.atheism')
+(-810.45243021882118, 'sci.space')
+(-1478.1690144988643, 'comp.sys.mac.hardware')
+(-1084.8593763691431, 'comp.sys.mac.hardware')
+Classifying comp.windows.x
+(-1726.6499313567065, 'comp.windows.x')
+(-26092.841794715201, 'sci.electronics')
+(-976.48716168551698, 'comp.windows.x')
+(-1307.3749440287818, 'comp.windows.x')
+(-899.68933430305242, 'comp.graphics')
+(-2533.3407878959365, 'comp.graphics')
+(-1583.7010684231825, 'comp.windows.x')
+(-1104.6231779565478, 'talk.politics.misc')
+(-968.4352845003275, 'comp.windows.x')
+(-630.69458574790963, 'talk.religion.misc')
+Classifying misc.forsale
+(-1048.6791762545922, 'comp.sys.ibm.pc.hardware')
+(-737.24950191419737, 'misc.forsale')
+(-824.47133226069377, 'comp.sys.mac.hardware')
+(-1224.0352583500919, 'talk.politics.misc')
+(-852.16431867004326, 'comp.sys.mac.hardware')
+(-1298.7691316070866, 'misc.forsale')
+(-953.68134329629174, 'rec.sport.baseball')
+(-817.05453436259256, 'rec.sport.hockey')
+(-1267.7659895924851, 'misc.forsale')
+(-1438.3537421273668, 'misc.forsale')
+Classifying rec.autos
+(-2431.0850167609724, 'rec.autos')
+(-948.73866914382018, 'rec.motorcycles')
+(-1083.3716085481985, 'talk.politics.guns')
+(-892.19246917399641, 'sci.crypt')
+(-1231.6556540107815, 'talk.religion.misc')
+(-1894.7910304827217, 'talk.politics.misc')
+(-2159.4034491692641, 'talk.politics.misc')
+(-628.33135000060372, 'rec.autos')
+(-1469.0525545342941, 'rec.autos')
+(-1534.5127213814715, 'talk.politics.misc')
+Classifying rec.motorcycles
+(-1669.9876760886373, 'talk.politics.misc')
+(-1618.4885146008312, 'alt.atheism')
+(-1075.1877909106449, 'sci.crypt')
+(-492.50043051735099, 'misc.forsale')
+(-1789.6390285619866, 'talk.politics.misc')
+(-1016.8423375017508, 'rec.sport.baseball')
+(-1570.733651045965, 'rec.motorcycles')
+(-1474.4988255738324, 'rec.motorcycles')
+(-1564.9244449681496, 'rec.autos')
+(-1243.2779358095293, 'talk.politics.misc')
+Classifying rec.sport.baseball
+(-1139.2200131055358, 'rec.sport.baseball')
+(-1006.1502674971279, 'rec.sport.baseball')
+(-926.98134079148599, 'rec.sport.baseball')
+(-1282.2963497602495, 'alt.atheism')
+(-1967.3908383871394, 'rec.sport.baseball')
+(-1645.6991364775226, 'rec.sport.baseball')
+(-1252.3573306927774, 'rec.sport.baseball')
+(-1251.7666380406956, 'rec.sport.baseball')
+(-847.63251009969952, 'rec.autos')
+(-2120.2958886875294, 'rec.sport.baseball')
+Classifying rec.sport.hockey
+(-1918.5347851841746, 'rec.sport.hockey')
+(-4644.1135022820908, 'talk.politics.misc')
+(-1700.764954068419, 'rec.sport.hockey')
+(-3896.8351284312707, 'rec.sport.hockey')
+(-2459.2849121273439, 'rec.sport.baseball')
+(-661.09785860240606, 'rec.sport.baseball')
+(-2115.2405934682179, 'talk.politics.misc')
+(-1228.1962680811071, 'comp.sys.ibm.pc.hardware')
+(-1643.288763508408, 'talk.politics.misc')
+(-1979.2273454643964, 'talk.politics.misc')
+Classifying sci.crypt
+(-1014.0513321659471, 'sci.crypt')
+(-625.67550790143025, 'talk.religion.misc')
+(-1756.6923721975177, 'sci.crypt')
+(-1098.1990065109565, 'sci.crypt')
+(-7799.2498519300043, 'sci.crypt')
+(-1259.7068494997288, 'sci.crypt')
+(-1088.1188736449833, 'sci.crypt')
+(-1598.1087651587288, 'sci.crypt')
+(-6829.9022647349275, 'sci.crypt')
+(-839.89650019361022, 'sci.crypt')
+Classifying sci.electronics
+(-1603.4039662858302, 'sci.electronics')
+(-2780.6336709808893, 'sci.electronics')
+(-3037.6306183314828, 'sci.electronics')
+(-2174.1756431943554, 'comp.sys.mac.hardware')
+(-2203.6623899481683, 'talk.politics.misc')
+(-2103.9154956284333, 'rec.autos')
+(-1663.4908302557137, 'alt.atheism')
+(-1139.4906349346411, 'sci.crypt')
+(-948.97150574356669, 'rec.autos')
+(-560.69816169663795, 'rec.sport.hockey')
+Classifying sci.med
+(-1149.2391765036075, 'talk.politics.misc')
+(-1009.4968863675213, 'rec.autos')
+(-1729.5949894585076, 'talk.religion.misc')
+(-1431.3326171037336, 'talk.politics.misc')
+(-1114.3905367194648, 'talk.religion.misc')
+(-983.49048195290607, 'talk.religion.misc')
+(-1358.5526557288376, 'talk.politics.misc')
+(-758.82544140280163, 'rec.motorcycles')
+(-2384.3281354171709, 'comp.windows.x')
+(-1033.7887780545784, 'talk.politics.misc')
+Classifying sci.space
+(-1617.0803829878778, 'talk.politics.misc')
+(-9847.2111737203941, 'sci.space')
+(-6645.3012322594259, 'sci.space')
+(-1295.174840953744, 'talk.religion.misc')
+(-1100.4908637909841, 'sci.space')
+(-1041.822580837734, 'sci.med')
+(-1059.5411035334446, 'talk.politics.misc')
+(-1475.6132178444095, 'sci.space')
+(-3091.1041497098786, 'sci.space')
+(-623.773350889982, 'talk.politics.misc')
+Classifying soc.religion.christian
+(-989.93469987869719, 'soc.religion.christian')
+(-1165.3798591276891, 'soc.religion.christian')
+(-549.58111089220483, 'soc.religion.christian')
+(-2432.0509200130446, 'soc.religion.christian')
+(-2213.26144574718, 'soc.religion.christian')
+(-4264.3855779553705, 'soc.religion.christian')
+(-2763.9431931502081, 'soc.religion.christian')
+(-1940.4792386381139, 'soc.religion.christian')
+(-1202.5105215806414, 'soc.religion.christian')
+(-1134.9885845327788, 'soc.religion.christian')
+Classifying talk.politics.guns
+(-5695.6010432772227, 'talk.politics.misc')
+(-1303.5594212830201, 'talk.politics.misc')
+(-1296.751523693684, 'talk.religion.misc')
+(-3408.7290823414783, 'talk.politics.misc')
+(-1883.5277127856323, 'talk.politics.misc')
+(-3356.0342827112918, 'talk.politics.misc')
+(-755.36822078892294, 'talk.politics.guns')
+(-3508.3775368173451, 'talk.politics.misc')
+(-975.3210344781512, 'talk.politics.guns')
+(-1396.1785312308532, 'sci.crypt')
+Classifying talk.politics.mideast
+(-819.18011942009991, 'talk.politics.mideast')
+(-1471.7954184395778, 'talk.politics.mideast')
+(-2039.4394522777791, 'talk.politics.mideast')
+(-2644.7783773374981, 'talk.politics.mideast')
+(-1695.9770047943448, 'talk.politics.misc')
+(-737.55751108297966, 'talk.politics.mideast')
+(-1510.7244114353032, 'talk.politics.mideast')
+(-1346.638556288266, 'talk.politics.misc')
+(-1137.7821152683362, 'talk.politics.guns')
+(-758.56590705929659, 'talk.politics.misc')
+Classifying talk.politics.misc
+(-1096.3239447210919, 'talk.politics.misc')
+(-1795.5310414112846, 'talk.politics.misc')
+(-1450.9905939420746, 'talk.politics.misc')
+(-1766.5666337081138, 'talk.politics.misc')
+(-1436.4006455312935, 'talk.politics.misc')
+(-968.61245303305282, 'talk.religion.misc')
+(-1923.2041171570268, 'talk.politics.misc')
+(-1161.3820865985497, 'talk.politics.misc')
+(-1550.1376631615935, 'talk.religion.misc')
+(-1226.0081428031669, 'talk.politics.misc')
+Classifying talk.religion.misc
+(-1968.5487517019358, 'talk.politics.misc')
+(-1409.1968113148521, 'talk.politics.misc')
+(-1964.6384533713992, 'talk.religion.misc')
+(-1256.4882903424843, 'talk.politics.misc')
+(-978.97313262208309, 'talk.religion.misc')
+(-1890.4352407334275, 'talk.politics.misc')
+(-1497.9135138254146, 'talk.politics.misc')
+(-878.90149105386013, 'talk.religion.misc')
+(-1691.3867809963454, 'talk.religion.misc')
+(-1217.8433597462338, 'talk.politics.misc')
+class alt.atheism has 4 files and 422 words
+class comp.graphics has 4 files and 307 words
+class comp.os.ms-windows.misc has 4 files and 3174 words
+class comp.sys.ibm.pc.hardware has 4 files and 536 words
+class comp.sys.mac.hardware has 4 files and 454 words
+class comp.windows.x has 4 files and 558 words
+class misc.forsale has 4 files and 328 words
+class rec.autos has 4 files and 582 words
+class rec.motorcycles has 4 files and 509 words
+class rec.sport.baseball has 4 files and 340 words
+class rec.sport.hockey has 4 files and 474 words
+class sci.crypt has 4 files and 822 words
+class sci.electronics has 4 files and 6181 words
+class sci.med has 4 files and 1601 words
+class sci.space has 4 files and 629 words
+class soc.religion.christian has 4 files and 563 words
+class talk.politics.guns has 4 files and 569 words
+class talk.politics.mideast has 4 files and 506 words
+class talk.politics.misc has 4 files and 606 words
+class talk.religion.misc has 4 files and 538 words
+Top Word in rec.motorcycles:  edu: 0.003294
+Top Word in rec.motorcycles:  list: 0.002141
+Top Word in rec.motorcycles:  com: 0.002141
+Top Word in rec.motorcycles:  netcom: 0.001318
+Top Word in rec.motorcycles:  stafford: 0.001318
+Top Word in rec.motorcycles:  gs: 0.001153
+Top Word in rec.motorcycles:  motorcycles: 0.001153
+Top Word in rec.motorcycles:  adobe: 0.001153
+Top Word in rec.motorcycles:  winona: 0.001153
+Top Word in rec.motorcycles:  bmw: 0.001153
+
+
+Top Word in comp.sys.mac.hardware:  edu: 0.003324
+Top Word in comp.sys.mac.hardware:  mb: 0.002327
+Top Word in comp.sys.mac.hardware:  simms: 0.001994
+Top Word in comp.sys.mac.hardware:  apple: 0.001828
+Top Word in comp.sys.mac.hardware:  se: 0.001496
+Top Word in comp.sys.mac.hardware:  news: 0.001330
+Top Word in comp.sys.mac.hardware:  com: 0.001330
+Top Word in comp.sys.mac.hardware:  kth: 0.001330
+Top Word in comp.sys.mac.hardware:  mit: 0.001330
+Top Word in comp.sys.mac.hardware:  uiuc: 0.001163
+
+
+Top Word in talk.politics.misc:  edu: 0.006160
+Top Word in talk.politics.misc:  cmu: 0.002107
+Top Word in talk.politics.misc:  com: 0.002107
+Top Word in talk.politics.misc:  cs: 0.001945
+Top Word in talk.politics.misc:  news: 0.001783
+Top Word in talk.politics.misc:  misc: 0.001783
+Top Word in talk.politics.misc:  umd: 0.001459
+Top Word in talk.politics.misc:  talk: 0.001459
+Top Word in talk.politics.misc:  srv: 0.001297
+Top Word in talk.politics.misc:  cantaloupe: 0.001135
+
+
+Top Word in soc.religion.christian:  edu: 0.004897
+Top Word in soc.religion.christian:  rutgers: 0.003265
+Top Word in soc.religion.christian:  christian: 0.001959
+Top Word in soc.religion.christian:  geneva: 0.001796
+Top Word in soc.religion.christian:  cmu: 0.001306
+Top Word in soc.religion.christian:  apr: 0.001306
+Top Word in soc.religion.christian:  com: 0.001306
+Top Word in soc.religion.christian:  religion: 0.001143
+Top Word in soc.religion.christian:  people: 0.000979
+Top Word in soc.religion.christian:  net: 0.000816
+
+
+Top Word in comp.graphics:  edu: 0.002215
+Top Word in comp.graphics:  cmu: 0.001704
+Top Word in comp.graphics:  puc: 0.001193
+Top Word in comp.graphics:  news: 0.001193
+Top Word in comp.graphics:  cl: 0.001193
+Top Word in comp.graphics:  cs: 0.001193
+Top Word in comp.graphics:  vicente: 0.001193
+Top Word in comp.graphics:  net: 0.001022
+Top Word in comp.graphics:  srv: 0.001022
+Top Word in comp.graphics:  cena: 0.001022
+
+
+Top Word in sci.med:  edu: 0.005723
+Top Word in sci.med:  candida: 0.004606
+Top Word in sci.med:  bacteria: 0.002233
+Top Word in sci.med:  okstate: 0.002094
+Top Word in sci.med:  bloom: 0.001954
+Top Word in sci.med:  vaginal: 0.001815
+Top Word in sci.med:  vitamin: 0.001815
+Top Word in sci.med:  steve: 0.001675
+Top Word in sci.med:  yeast: 0.001675
+Top Word in sci.med:  tract: 0.001675
+
+
+Top Word in talk.religion.misc:  edu: 0.005573
+Top Word in talk.religion.misc:  com: 0.002786
+Top Word in talk.religion.misc:  cmu: 0.002131
+Top Word in talk.religion.misc:  misc: 0.001639
+Top Word in talk.religion.misc:  cs: 0.001639
+Top Word in talk.religion.misc:  talk: 0.001639
+Top Word in talk.religion.misc:  dm: 0.001475
+Top Word in talk.religion.misc:  eng: 0.001475
+Top Word in talk.religion.misc:  srv: 0.001311
+Top Word in talk.religion.misc:  compaq: 0.001311
+
+
+Top Word in comp.windows.x:  edu: 0.003431
+Top Word in comp.windows.x:  cmu: 0.002124
+Top Word in comp.windows.x:  dpy: 0.001797
+Top Word in comp.windows.x:  visual: 0.001797
+Top Word in comp.windows.x:  com: 0.001634
+Top Word in comp.windows.x:  window: 0.001470
+Top Word in comp.windows.x:  comp: 0.001470
+Top Word in comp.windows.x:  austin: 0.001470
+Top Word in comp.windows.x:  ibm: 0.001470
+Top Word in comp.windows.x:  windows: 0.001470
+
+
+Top Word in comp.sys.ibm.pc.hardware:  edu: 0.003115
+Top Word in comp.sys.ibm.pc.hardware:  esdi: 0.001804
+Top Word in comp.sys.ibm.pc.hardware:  ide: 0.001476
+Top Word in comp.sys.ibm.pc.hardware:  washington: 0.001476
+Top Word in comp.sys.ibm.pc.hardware:  cmu: 0.001312
+Top Word in comp.sys.ibm.pc.hardware:  bios: 0.001312
+Top Word in comp.sys.ibm.pc.hardware:  michael: 0.001148
+Top Word in comp.sys.ibm.pc.hardware:  ivan: 0.001148
+Top Word in comp.sys.ibm.pc.hardware:  ca: 0.001148
+Top Word in comp.sys.ibm.pc.hardware:  cs: 0.001148
+
+
+Top Word in talk.politics.guns:  edu: 0.005545
+Top Word in talk.politics.guns:  guns: 0.002772
+Top Word in talk.politics.guns:  cmu: 0.001957
+Top Word in talk.politics.guns:  com: 0.001957
+Top Word in talk.politics.guns:  cs: 0.001631
+Top Word in talk.politics.guns:  news: 0.001468
+Top Word in talk.politics.guns:  politics: 0.001305
+Top Word in talk.politics.guns:  hp: 0.001305
+Top Word in talk.politics.guns:  capita: 0.001305
+Top Word in talk.politics.guns:  people: 0.001142
+
+
+Top Word in alt.atheism:  edu: 0.006349
+Top Word in alt.atheism:  cmu: 0.001671
+Top Word in alt.atheism:  purdue: 0.001504
+Top Word in alt.atheism:  news: 0.001337
+Top Word in alt.atheism:  cc: 0.001003
+Top Word in alt.atheism:  state: 0.001003
+Top Word in alt.atheism:  ecn: 0.001003
+Top Word in alt.atheism:  srv: 0.001003
+Top Word in alt.atheism:  cs: 0.001003
+Top Word in alt.atheism:  osrhe: 0.001003
+
+
+Top Word in comp.os.ms-windows.misc:  _o: 0.030445
+Top Word in comp.os.ms-windows.misc:  rlk: 0.005379
+Top Word in comp.os.ms-windows.misc:  lq: 0.004464
+Top Word in comp.os.ms-windows.misc:  _lw: 0.004464
+Top Word in comp.os.ms-windows.misc:  mu: 0.003663
+Top Word in comp.os.ms-windows.misc:  mk: 0.003548
+Top Word in comp.os.ms-windows.misc:  el: 0.003434
+Top Word in comp.os.ms-windows.misc:  ql: 0.003319
+Top Word in comp.os.ms-windows.misc:  mr: 0.003205
+Top Word in comp.os.ms-windows.misc:  um: 0.003090
+
+
+Top Word in sci.crypt:  edu: 0.004855
+Top Word in sci.crypt:  eff: 0.002819
+Top Word in sci.crypt:  clinton: 0.002349
+Top Word in sci.crypt:  org: 0.002349
+Top Word in sci.crypt:  cmu: 0.002193
+Top Word in sci.crypt:  cs: 0.002036
+Top Word in sci.crypt:  comp: 0.001723
+Top Word in sci.crypt:  com: 0.001566
+Top Word in sci.crypt:  alt: 0.001410
+Top Word in sci.crypt:  intercon: 0.001410
+
+
+Top Word in sci.space:  edu: 0.003714
+Top Word in sci.space:  com: 0.002907
+Top Word in sci.space:  apple: 0.001776
+Top Word in sci.space:  toronto: 0.001776
+Top Word in sci.space:  boeing: 0.001615
+Top Word in sci.space:  zoo: 0.001615
+Top Word in sci.space:  cmu: 0.001292
+Top Word in sci.space:  henry: 0.001292
+Top Word in sci.space:  space: 0.001292
+Top Word in sci.space:  nasa: 0.001292
+
+
+Top Word in misc.forsale:  edu: 0.003735
+Top Word in misc.forsale:  net: 0.001867
+Top Word in misc.forsale:  cmu: 0.001528
+Top Word in misc.forsale:  pro: 0.001358
+Top Word in misc.forsale:  freedom: 0.001188
+Top Word in misc.forsale:  cs: 0.001188
+Top Word in misc.forsale:  holonet: 0.001188
+Top Word in misc.forsale:  wa: 0.001019
+Top Word in misc.forsale:  srv: 0.001019
+Top Word in misc.forsale:  forsale: 0.001019
+
+
+Top Word in rec.sport.hockey:  edu: 0.002816
+Top Word in rec.sport.hockey:  april: 0.002485
+Top Word in rec.sport.hockey:  sweden: 0.001491
+Top Word in rec.sport.hockey:  germany: 0.001491
+Top Word in rec.sport.hockey:  finland: 0.001325
+Top Word in rec.sport.hockey:  switzerland: 0.001325
+Top Word in rec.sport.hockey:  czech: 0.001325
+Top Word in rec.sport.hockey:  canada: 0.001325
+Top Word in rec.sport.hockey:  usa: 0.001325
+Top Word in rec.sport.hockey:  russia: 0.001325
+
+
+Top Word in rec.sport.baseball:  edu: 0.003727
+Top Word in rec.sport.baseball:  rec: 0.001525
+Top Word in rec.sport.baseball:  cmu: 0.001355
+Top Word in rec.sport.baseball:  cs: 0.001355
+Top Word in rec.sport.baseball:  sport: 0.001186
+Top Word in rec.sport.baseball:  baseball: 0.001186
+Top Word in rec.sport.baseball:  team: 0.001016
+Top Word in rec.sport.baseball:  srv: 0.001016
+Top Word in rec.sport.baseball:  upenn: 0.001016
+Top Word in rec.sport.baseball:  gmt: 0.000847
+
+
+Top Word in sci.electronics:  wire: 0.009366
+Top Word in sci.electronics:  wiring: 0.008770
+Top Word in sci.electronics:  use: 0.005450
+Top Word in sci.electronics:  subject: 0.004598
+Top Word in sci.electronics:  ground: 0.004598
+Top Word in sci.electronics:  neutral: 0.004598
+Top Word in sci.electronics:  circuit: 0.003917
+Top Word in sci.electronics:  outlets: 0.003832
+Top Word in sci.electronics:  cable: 0.003747
+Top Word in sci.electronics:  gfci: 0.003747
+
+
+Top Word in rec.autos:  edu: 0.003417
+Top Word in rec.autos:  diesel: 0.001790
+Top Word in rec.autos:  triumf: 0.001302
+Top Word in rec.autos:  ca: 0.001302
+Top Word in rec.autos:  rec: 0.001139
+Top Word in rec.autos:  cmu: 0.001139
+Top Word in rec.autos:  radar: 0.001139
+Top Word in rec.autos:  university: 0.001139
+Top Word in rec.autos:  think: 0.001139
+Top Word in rec.autos:  autos: 0.001139
+
+
+Top Word in talk.politics.mideast:  edu: 0.006097
+Top Word in talk.politics.mideast:  cs: 0.002472
+Top Word in talk.politics.mideast:  cmu: 0.002307
+Top Word in talk.politics.mideast:  talk: 0.001483
+Top Word in talk.politics.mideast:  culture: 0.001318
+Top Word in talk.politics.mideast:  news: 0.001318
+Top Word in talk.politics.mideast:  soc: 0.001318
+Top Word in talk.politics.mideast:  politics: 0.001318
+Top Word in talk.politics.mideast:  srv: 0.001153
+Top Word in talk.politics.mideast:  adl: 0.000989
+
+
+Classifying alt.atheism
+(-951.65190407585294, 'talk.politics.misc')
+(-1318.3697196470875, 'talk.politics.misc')
+(-924.13197074231448, 'talk.politics.misc')
+(-810.63527676761476, 'talk.politics.misc')
+(-1272.4823959998403, 'comp.windows.x')
+(-881.37771243913778, 'talk.politics.mideast')
+(-1100.435068735695, 'talk.politics.mideast')
+(-2011.8893567146399, 'talk.religion.misc')
+(-1349.2815777892242, 'talk.politics.mideast')
+(-1127.1742635937601, 'talk.politics.misc')
+Classifying comp.graphics
+(-1951.679626713815, 'comp.sys.ibm.pc.hardware')
+(-1010.4358470354666, 'talk.politics.misc')
+(-1201.42233231508, 'comp.windows.x')
+(-1152.4650653710603, 'comp.graphics')
+(-743.75415655227846, 'comp.graphics')
+(-626.81073184282491, 'talk.politics.mideast')
+(-2096.3710859916569, 'comp.graphics')
+(-832.69957492804213, 'sci.crypt')
+(-853.80130591464808, 'sci.crypt')
+(-1620.7588842281762, 'talk.politics.misc')
+Classifying comp.os.ms-windows.misc
+(-1175.4524810509429, 'comp.windows.x')
+(-1036.6260711904363, 'talk.politics.misc')
+(-2728.5699788159468, 'comp.windows.x')
+(-727.32355984676883, 'sci.crypt')
+(-2155.203751176653, 'comp.windows.x')
+(-915.31660187041302, 'sci.crypt')
+(-742.29195115180789, 'comp.windows.x')
+(-965.19403552433891, 'comp.windows.x')
+(-1900.7675281074035, 'comp.windows.x')
+(-1427.854971076144, 'comp.windows.x')
+Classifying comp.sys.ibm.pc.hardware
+(-1753.8906125089461, 'comp.sys.ibm.pc.hardware')
+(-889.08521771975757, 'comp.sys.mac.hardware')
+(-657.98177035545461, 'talk.religion.misc')
+(-870.9262352435162, 'comp.sys.ibm.pc.hardware')
+(-805.69912786239433, 'talk.politics.guns')
+(-1075.1611437806143, 'talk.religion.misc')
+(-1191.4668383340806, 'talk.religion.misc')
+(-1263.801845136041, 'comp.sys.ibm.pc.hardware')
+(-1431.7980586160809, 'comp.sys.mac.hardware')
+(-1330.0927711302852, 'comp.sys.ibm.pc.hardware')
+Classifying comp.sys.mac.hardware
+(-1936.0317309048248, 'talk.religion.misc')
+(-1021.9911529559773, 'talk.politics.guns')
+(-1498.2777559296035, 'talk.politics.misc')
+(-2558.1268566153326, 'comp.sys.ibm.pc.hardware')
+(-1522.3250984327508, 'comp.sys.mac.hardware')
+(-1297.9306369451419, 'comp.sys.ibm.pc.hardware')
+(-903.62160721914881, 'sci.crypt')
+(-789.97154087177717, 'sci.space')
+(-1452.9499171560744, 'sci.space')
+(-1072.0909832954264, 'alt.atheism')
+Classifying comp.windows.x
+(-1673.4340789847838, 'comp.windows.x')
+(-24964.666035480339, 'comp.windows.x')
+(-949.66070638645192, 'talk.religion.misc')
+(-1265.3427029464638, 'rec.sport.hockey')
+(-874.02366576026873, 'comp.graphics')
+(-2442.8875059955017, 'comp.graphics')
+(-1526.8628774691695, 'comp.sys.mac.hardware')
+(-1074.0140304619345, 'talk.politics.mideast')
+(-966.33867689045746, 'comp.windows.x')
+(-618.20476040855397, 'talk.politics.guns')
+Classifying misc.forsale
+(-1034.13837680304, 'talk.religion.misc')
+(-720.12775940443885, 'talk.politics.mideast')
+(-807.89816860855478, 'misc.forsale')
+(-1193.6418311222908, 'talk.politics.misc')
+(-835.86519849754814, 'sci.crypt')
+(-1263.6195860294424, 'misc.forsale')
+(-926.95807991090498, 'misc.forsale')
+(-798.1986094094691, 'talk.religion.misc')
+(-1228.1624361282466, 'misc.forsale')
+(-1390.3935358155547, 'misc.forsale')
+Classifying rec.autos
+(-2336.6665006631852, 'talk.politics.misc')
+(-917.09155593952687, 'talk.politics.guns')
+(-1050.6035272537583, 'sci.crypt')
+(-854.39280302264547, 'sci.crypt')
+(-1195.7009107450069, 'talk.politics.misc')
+(-1822.5194194619633, 'talk.politics.mideast')
+(-2077.7099775973352, 'alt.atheism')
+(-628.06457689680508, 'rec.autos')
+(-1426.1136767388639, 'talk.religion.misc')
+(-1483.4996167447384, 'talk.religion.misc')
+Classifying rec.motorcycles
+(-1593.8261397673821, 'talk.politics.misc')
+(-1565.6061973851558, 'rec.motorcycles')
+(-1035.4693855058638, 'sci.crypt')
+(-477.7177528048453, 'sci.space')
+(-1713.0046511915677, 'talk.religion.misc')
+(-990.81114039043609, 'talk.politics.misc')
+(-1506.4592394289807, 'talk.politics.misc')
+(-1422.4224718207522, 'talk.politics.mideast')
+(-1517.937383862459, 'rec.autos')
+(-1199.6276711545563, 'talk.politics.misc')
+Classifying rec.sport.baseball
+(-1114.0881588085419, 'rec.sport.baseball')
+(-982.26252839743461, 'rec.sport.baseball')
+(-904.15880148325516, 'rec.sport.baseball')
+(-1243.9659804293533, 'talk.politics.misc')
+(-1891.7095394815706, 'rec.sport.baseball')
+(-1597.1021898049651, 'rec.sport.baseball')
+(-1217.6286050389731, 'talk.politics.misc')
+(-1206.6475415773691, 'rec.sport.baseball')
+(-832.90539384952422, 'talk.politics.guns')
+(-2044.2673916796416, 'rec.sport.baseball')
+Classifying rec.sport.hockey
+(-1853.3241425354543, 'rec.sport.baseball')
+(-4445.0488773984025, 'rec.sport.baseball')
+(-1658.1626848937506, 'rec.sport.hockey')
+(-3737.0567896469975, 'talk.politics.guns')
+(-2391.1736292289324, 'rec.sport.baseball')
+(-642.48408149043814, 'talk.politics.guns')
+(-2032.6434361554188, 'rec.autos')
+(-1182.6247896876357, 'comp.sys.ibm.pc.hardware')
+(-1588.3032211147554, 'rec.autos')
+(-1894.1426345252542, 'talk.politics.misc')
+Classifying sci.crypt
+(-984.61249988882923, 'sci.crypt')
+(-609.12910259504554, 'talk.religion.misc')
+(-1699.7016812366728, 'talk.politics.mideast')
+(-1070.5154651465884, 'sci.crypt')
+(-7514.9211808630735, 'sci.crypt')
+(-1225.0347494562166, 'sci.crypt')
+(-1059.8531889794265, 'sci.crypt')
+(-1537.7611281961158, 'sci.crypt')
+(-6527.4288817013958, 'sci.crypt')
+(-819.98121894615645, 'sci.crypt')
+Classifying sci.electronics
+(-1553.9660919136422, 'rec.autos')
+(-2665.0318498428496, 'talk.politics.guns')
+(-2915.4132383162105, 'talk.politics.misc')
+(-2100.3818560705759, 'comp.sys.ibm.pc.hardware')
+(-2111.4610052731095, 'talk.politics.misc')
+(-2015.7755137045992, 'rec.autos')
+(-1597.3025944390763, 'alt.atheism')
+(-1103.8562789162215, 'sci.crypt')
+(-925.1082168285426, 'rec.sport.baseball')
+(-558.80077673263384, 'sci.crypt')
+Classifying sci.med
+(-1128.189158775695, 'sci.crypt')
+(-985.23121699564115, 'talk.politics.misc')
+(-1662.3018874785423, 'talk.politics.misc')
+(-1365.7853304809378, 'talk.politics.misc')
+(-1102.8928401274318, 'talk.politics.guns')
+(-964.58915664592496, 'talk.politics.mideast')
+(-1315.1690048317651, 'sci.crypt')
+(-737.53476926610995, 'rec.motorcycles')
+(-2284.9132066357329, 'comp.windows.x')
+(-1006.774965313137, 'talk.politics.misc')
+Classifying sci.space
+(-1556.2398497604677, 'talk.politics.misc')
+(-9389.3579793904519, 'sci.space')
+(-6322.836434423426, 'sci.space')
+(-1243.0889211939166, 'sci.crypt')
+(-1074.2006421001608, 'sci.space')
+(-1012.5378592772192, 'talk.politics.mideast')
+(-1026.7774947410803, 'sci.crypt')
+(-1418.7849853079399, 'talk.politics.misc')
+(-2944.1913700302266, 'sci.space')
+(-610.19876330703573, 'talk.politics.mideast')
+Classifying soc.religion.christian
+(-972.31929962787933, 'soc.religion.christian')
+(-1143.8622107021486, 'soc.religion.christian')
+(-553.86355595253224, 'soc.religion.christian')
+(-2360.5682224372672, 'soc.religion.christian')
+(-2129.2711105913713, 'soc.religion.christian')
+(-4117.9700459315536, 'soc.religion.christian')
+(-2676.2166071053498, 'soc.religion.christian')
+(-1895.4204504585123, 'soc.religion.christian')
+(-1179.8325236078238, 'soc.religion.christian')
+(-1119.2866547962524, 'soc.religion.christian')
+Classifying talk.politics.guns
+(-5457.2655493529537, 'talk.politics.guns')
+(-1266.3228620653617, 'talk.politics.mideast')
+(-1253.7179219594263, 'talk.religion.misc')
+(-3274.4657051333547, 'talk.politics.guns')
+(-1810.7332005244075, 'talk.politics.misc')
+(-3221.6808047990462, 'talk.politics.guns')
+(-758.9460811803184, 'talk.politics.mideast')
+(-3379.5069064275813, 'sci.crypt')
+(-954.11131347947719, 'talk.politics.guns')
+(-1348.4792678904514, 'sci.crypt')
+Classifying talk.politics.mideast
+(-803.70600225792282, 'talk.politics.mideast')
+(-1422.6669695708165, 'talk.politics.mideast')
+(-2026.235904010942, 'talk.politics.mideast')
+(-2586.8223185705078, 'talk.politics.mideast')
+(-1637.1659271676274, 'talk.politics.misc')
+(-737.31650695145709, 'talk.politics.mideast')
+(-1465.3919884406741, 'talk.politics.mideast')
+(-1298.3499604627893, 'talk.politics.misc')
+(-1096.2645828239117, 'talk.politics.guns')
+(-750.53221902054952, 'talk.religion.misc')
+Classifying talk.politics.misc
+(-1073.435902604481, 'talk.politics.misc')
+(-1799.6824277775584, 'talk.politics.misc')
+(-1400.0400145069805, 'talk.politics.misc')
+(-1746.9480054132862, 'talk.politics.misc')
+(-1401.8820859145703, 'talk.politics.misc')
+(-940.7033402573137, 'sci.crypt')
+(-1865.2215598364037, 'talk.politics.misc')
+(-1133.3737341465699, 'talk.politics.misc')
+(-1490.8267747187751, 'talk.politics.misc')
+(-1186.2860047027934, 'talk.politics.misc')
+Classifying talk.religion.misc
+(-1897.4556166010848, 'talk.politics.misc')
+(-1367.311650719377, 'soc.religion.christian')
+(-1951.9343725022218, 'talk.politics.misc')
+(-1231.8647591750994, 'talk.religion.misc')
+(-965.02215630873206, 'talk.politics.misc')
+(-1830.0250126465517, 'talk.religion.misc')
+(-1468.3593063972946, 'talk.religion.misc')
+(-865.3586634929386, 'talk.religion.misc')
+(-1649.4230875351038, 'alt.atheism')
+(-1194.0351235496694, 'talk.politics.misc')
+The Accuracy of The documents at each accuracy level is below:
+{100: 0.81499999999999995, 5: 0.35499999999999998, 40: 0.71499999999999997, 10: 0.44500000000000001, 80: 0.79000000000000004, 20: 0.60499999999999998, 60: 0.79000000000000004}
+
+
+ Part B starts here: Email Classification Spam vs. Good
+class Spam has 20 files and 1564 words
+class Good has 20 files and 2605 words
+Top Word in Good:  com: 0.008341
+Top Word in Good:  order: 0.004734
+Top Word in Good:  time: 0.004509
+Top Word in Good:  upromise: 0.004058
+Top Word in Good:  account: 0.003832
+Top Word in Good:  nike: 0.003832
+Top Word in Good:  price: 0.003832
+Top Word in Good:  mae: 0.003381
+Top Word in Good:  amazon: 0.003381
+Top Word in Good:  sallie: 0.003381
+
+
+Top Word in Spam:  account: 0.005596
+Top Word in Spam:  click: 0.004418
+Top Word in Spam:  com: 0.004418
+Top Word in Spam:  receive: 0.004124
+Top Word in Spam:  obama: 0.003535
+Top Word in Spam:  funds: 0.003535
+Top Word in Spam:  states: 0.003240
+Top Word in Spam:  president: 0.003240
+Top Word in Spam:  thank: 0.002946
+Top Word in Spam:  unsubscribe: 0.002946
+
+
+Classifying Spam
+(-337.73721928838933, 'Good')
+(-825.60598218655423, 'Spam')
+(-725.87091721621061, 'Spam')
+(-589.11074641859022, 'Spam')
+(-1341.7164733310785, 'Spam')
+(-1209.7320486326935, 'Good')
+(-663.06445846949816, 'Good')
+(-1614.0104186332696, 'Good')
+(-2012.1532817132854, 'Good')
+(-715.26711323013512, 'Good')
+Classifying Good
+(-691.33513674903861, 'Good')
+(-738.9724920485221, 'Good')
+(-302.72736006845844, 'Good')
+(-1983.3048611923828, 'Good')
+(-457.91285853335273, 'Spam')
+(-1056.4866956565552, 'Spam')
+(-865.66111001660954, 'Spam')
+(-892.76724090945038, 'Spam')
+(-2524.7795327158956, 'Good')
+(-2206.558346007349, 'Good')
+The Accuracy of my Spam to Good email classification is: 0.500000
